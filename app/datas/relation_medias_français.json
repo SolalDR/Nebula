@@ -1,0 +1,2357 @@
+[
+  {
+    "origine": "Claude Perdriel",
+    "valeur": "50",
+    "cible": "Sophia Publications",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Claude Perdriel",
+    "valeur": "93",
+    "cible": "Groupe Perdriel",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Sophia Publications",
+    "valeur": "100",
+    "cible": "L'histoire",
+    "source": "lemonde.fr",
+    "datePublication": "23/06/2016",
+    "dateConsultation": "22/10/2016"
+  },
+  {
+    "origine": "Sophia Publications",
+    "valeur": "100",
+    "cible": "Historia",
+    "source": "strategies.fr",
+    "datePublication": "14/11/2014",
+    "dateConsultation": "28/06/2016"
+  },
+  {
+    "origine": "Groupe Perdriel",
+    "valeur": "100",
+    "cible": "Challenges",
+    "source": "strategies.fr",
+    "datePublication": "14/11/2014",
+    "dateConsultation": "28/06/2016"
+  },
+  {
+    "origine": "Groupe Perdriel",
+    "valeur": "100",
+    "cible": "Sciences & Avenir",
+    "source": "strategies.fr",
+    "datePublication": "14/11/2014",
+    "dateConsultation": "28/06/2016"
+  },
+  {
+    "origine": "Prisa",
+    "valeur": "20",
+    "cible": "Le Monde libre",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Xavier Niel",
+    "valeur": "40",
+    "cible": "Le Monde libre",
+    "source": "https://fr.reuters.com/article/topNews/idFRKCN1BJ24Z-OFRTP",
+    "datePublication": "08/09/2017",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Matthieu Pigasse",
+    "valeur": "40",
+    "cible": "Le Monde libre",
+    "source": "https://fr.reuters.com/article/topNews/idFRKCN1BJ24Z-OFRTP",
+    "datePublication": "08/09/2017",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Le Monde libre",
+    "valeur": "73",
+    "cible": "Le Monde SA",
+    "source": "https://fr.reuters.com/article/topNews/idFRKCN1BJ24Z-OFRTP",
+    "datePublication": "08/09/2017",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Le Monde libre",
+    "valeur": "99",
+    "cible": "L'Obs",
+    "source": "lefigaro.fr",
+    "datePublication": "23/11/2016",
+    "dateConsultation": "23/11/2016"
+  },
+  {
+    "origine": "Le Monde SA",
+    "valeur": "100",
+    "cible": "Prier",
+    "source": "sdllemonde.fr et lemonde.fr",
+    "datePublication": "06/10/2017",
+    "dateConsultation": "14/05/2016 et 16/10/2017"
+  },
+  {
+    "origine": "Le Monde SA",
+    "valeur": "100",
+    "cible": "M, le magazine du Monde",
+    "source": "sdllemonde.fr et lemonde.fr",
+    "datePublication": "06/10/2017",
+    "dateConsultation": "14/05/2016 et 16/10/2017"
+  },
+  {
+    "origine": "Le Monde SA",
+    "valeur": "100",
+    "cible": "Le Monde",
+    "source": "sdllemonde.fr et lemonde.fr",
+    "datePublication": "06/10/2017",
+    "dateConsultation": "14/05/2016 et 16/10/2017"
+  },
+  {
+    "origine": "Le Monde SA",
+    "valeur": "100",
+    "cible": "Télérama",
+    "source": "sdllemonde.fr et lemonde.fr",
+    "datePublication": "06/10/2017",
+    "dateConsultation": "14/05/2016 et 16/10/2017"
+  },
+  {
+    "origine": "Le Monde SA",
+    "valeur": "100",
+    "cible": "Courrier international",
+    "source": "sdllemonde.fr et lemonde.fr",
+    "datePublication": "06/10/2017",
+    "dateConsultation": "14/05/2016 et 16/10/2017"
+  },
+  {
+    "origine": "Le Monde SA",
+    "valeur": "100",
+    "cible": "Le Monde des religions",
+    "source": "sdllemonde.fr et lemonde.fr",
+    "datePublication": "06/10/2017",
+    "dateConsultation": "14/05/2016 et 16/10/2017"
+  },
+  {
+    "origine": "Le Monde SA",
+    "valeur": "100",
+    "cible": "La Vie",
+    "source": "sdllemonde.fr et lemonde.fr",
+    "datePublication": "06/10/2017",
+    "dateConsultation": "14/05/2016 et 16/10/2017"
+  },
+  {
+    "origine": "Le Monde SA",
+    "valeur": "51",
+    "cible": "Le Monde diplomatique",
+    "source": "sdllemonde.fr et lemonde.fr",
+    "datePublication": "06/10/2017",
+    "dateConsultation": "14/05/2016 et 16/10/2017"
+  },
+  {
+    "origine": "Le Monde SA",
+    "valeur": "51",
+    "cible": "Manière de voir",
+    "source": "sdllemonde.fr et lemonde.fr",
+    "datePublication": "06/10/2017",
+    "dateConsultation": "14/05/2016 et 16/10/2017"
+  },
+  {
+    "origine": "Le Monde SA",
+    "valeur": "34",
+    "cible": "Huffingtonpost.fr",
+    "source": "lexpress.fr",
+    "datePublication": "24/02/2015",
+    "dateConsultation": "10/07/2016"
+  },
+  {
+    "origine": "Les Amis du Monde diplomatique",
+    "valeur": "24,5",
+    "cible": "Le Monde diplomatique",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Association Günter-Holzmann",
+    "valeur": "24,5",
+    "cible": "Le Monde diplomatique",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Les Amis du Monde diplomatique",
+    "valeur": "24,5",
+    "cible": "Manière de voir",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Association Günter-Holzmann",
+    "valeur": "24,5",
+    "cible": "Manière de voir",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Matthieu Pigasse",
+    "valeur": "78",
+    "cible": "Les Nouvelles Éditions",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "AOL",
+    "valeur": "100",
+    "cible": "Huffington Post",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Huffington Post",
+    "valeur": "51",
+    "cible": "Huffingtonpost.fr",
+    "source": "lexpress.fr",
+    "datePublication": "24/02/2015",
+    "dateConsultation": "10/07/2016"
+  },
+  {
+    "origine": "Les Nouvelles Éditions",
+    "valeur": "11",
+    "cible": "Huffingtonpost.fr",
+    "source": "lexpress.fr",
+    "datePublication": "24/02/2015",
+    "dateConsultation": "10/07/2016"
+  },
+  {
+    "origine": "Les Nouvelles Éditions",
+    "valeur": "100",
+    "cible": "Radio Nova",
+    "source": "lesechos.fr",
+    "datePublication": "22/05/2015",
+    "dateConsultation": "14/05/2016"
+  },
+  {
+    "origine": "Les Nouvelles Éditions",
+    "valeur": "100",
+    "cible": "Les Inrockuptibles",
+    "source": "lesechos.fr",
+    "datePublication": "22/05/2015",
+    "dateConsultation": "14/05/2016"
+  },
+  {
+    "origine": "Les Nouvelles Éditions",
+    "valeur": "<50",
+    "cible": "Vice.com",
+    "source": "lemonde.fr",
+    "datePublication": "11/03/2016",
+    "dateConsultation": "10/07/2016"
+  },
+  {
+    "origine": "Serge Dassault",
+    "valeur": "100",
+    "cible": "Groupe Dassault",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Groupe Dassault",
+    "valeur": "100",
+    "cible": "Groupe Figaro",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Groupe Figaro",
+    "valeur": "100",
+    "cible": "Le Figaro",
+    "source": "dassault.fr et offremedia.com",
+    "datePublication": "03/10/2017",
+    "dateConsultation": "14/05/2016 et 16/10/2017"
+  },
+  {
+    "origine": "Groupe Figaro",
+    "valeur": "100",
+    "cible": "Figaro Magazine",
+    "source": "dassault.fr et offremedia.com",
+    "datePublication": "03/10/2017",
+    "dateConsultation": "14/05/2016 et 16/10/2017"
+  },
+  {
+    "origine": "Groupe Figaro",
+    "valeur": "100",
+    "cible": "Le Particulier",
+    "source": "dassault.fr et offremedia.com",
+    "datePublication": "03/10/2017",
+    "dateConsultation": "14/05/2016 et 16/10/2017"
+  },
+  {
+    "origine": "Groupe Figaro",
+    "valeur": "100",
+    "cible": "La Lettre de l'Expansion",
+    "source": "dassault.fr et offremedia.com",
+    "datePublication": "03/10/2017",
+    "dateConsultation": "14/05/2016 et 16/10/2017"
+  },
+  {
+    "origine": "Bernard Arnault",
+    "valeur": "46,6",
+    "cible": "LVMH",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "LVMH",
+    "valeur": "100",
+    "cible": "Le Parisien",
+    "source": "lvmh.fr",
+    "datePublication": "31/12/2015",
+    "dateConsultation": "28/06/2016"
+  },
+  {
+    "origine": "LVMH",
+    "valeur": "100",
+    "cible": "Le Parisien Magazine",
+    "source": "lvmh.fr",
+    "datePublication": "31/12/2015",
+    "dateConsultation": "28/06/2016"
+  },
+  {
+    "origine": "LVMH",
+    "valeur": "100",
+    "cible": "Le Parisien économie",
+    "source": "lvmh.fr",
+    "datePublication": "31/12/2015",
+    "dateConsultation": "28/06/2016"
+  },
+  {
+    "origine": "LVMH",
+    "valeur": "100",
+    "cible": "Aujourd'hui en France",
+    "source": "lvmh.fr",
+    "datePublication": "31/12/2015",
+    "dateConsultation": "28/06/2016"
+  },
+  {
+    "origine": "LVMH",
+    "valeur": "100",
+    "cible": "Groupe Les Échos",
+    "source": "lvmh.fr",
+    "datePublication": "31/12/2015",
+    "dateConsultation": "28/06/2016"
+  },
+  {
+    "origine": "Groupe Les Échos",
+    "valeur": "100",
+    "cible": "Les Échos",
+    "source": "lvmh.fr",
+    "datePublication": "31/12/2015",
+    "dateConsultation": "28/06/2016"
+  },
+  {
+    "origine": "Groupe Les Échos",
+    "valeur": "100",
+    "cible": "Investir",
+    "source": "lvmh.fr",
+    "datePublication": "31/12/2015",
+    "dateConsultation": "28/06/2016"
+  },
+  {
+    "origine": "Groupe Les Échos",
+    "valeur": "100",
+    "cible": "Investir Magazine",
+    "source": "lvmh.fr",
+    "datePublication": "31/12/2015",
+    "dateConsultation": "28/06/2016"
+  },
+  {
+    "origine": "Groupe Les Échos",
+    "valeur": "100",
+    "cible": "Les Échos Week-End",
+    "source": "lvmh.fr",
+    "datePublication": "31/12/2015",
+    "dateConsultation": "28/06/2016"
+  },
+  {
+    "origine": "Groupe Les Échos",
+    "valeur": "100",
+    "cible": "Radio Classique",
+    "source": "lvmh.fr",
+    "datePublication": "31/12/2015",
+    "dateConsultation": "28/06/2016"
+  },
+  {
+    "origine": "LVMH",
+    "valeur": "participe",
+    "cible": "L'Opinion",
+    "source": "challenges.fr",
+    "datePublication": "22/08/2014",
+    "dateConsultation": "14/05/2016"
+  },
+  {
+    "origine": "Famille Bettencourt",
+    "valeur": "participe",
+    "cible": "L'Opinion",
+    "source": "challenges.fr",
+    "datePublication": "22/08/2014",
+    "dateConsultation": "14/05/2016"
+  },
+  {
+    "origine": "Nicolas Beytout",
+    "valeur": "participe",
+    "cible": "L'Opinion",
+    "source": "challenges.fr",
+    "datePublication": "22/08/2014",
+    "dateConsultation": "14/05/2016"
+  },
+  {
+    "origine": "Claude Perdriel",
+    "valeur": "participe",
+    "cible": "L'Opinion",
+    "source": "challenges.fr",
+    "datePublication": "22/08/2014",
+    "dateConsultation": "14/05/2016"
+  },
+  {
+    "origine": "Patrick Drahi",
+    "valeur": "61",
+    "cible": "Altice",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Altice",
+    "valeur": "78",
+    "cible": "SFR Groupe",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "SFR Groupe",
+    "valeur": "100",
+    "cible": "L'Express",
+    "source": "linformaticien.com",
+    "datePublication": "25/11/2015",
+    "dateConsultation": "28/06/2016"
+  },
+  {
+    "origine": "SFR Groupe",
+    "valeur": "100",
+    "cible": "Libération",
+    "source": "linformaticien.com",
+    "datePublication": "25/11/2015",
+    "dateConsultation": "28/06/2016"
+  },
+  {
+    "origine": "SFR Groupe",
+    "valeur": "49",
+    "cible": "News Participations",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Alain Weill",
+    "valeur": "51",
+    "cible": "News Participations",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "News Participations",
+    "valeur": "95",
+    "cible": "NextRadioTV",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "NextRadioTV",
+    "valeur": "100",
+    "cible": "BFM TV",
+    "source": "investir.lesechos.fr",
+    "datePublication": "02/02/2016",
+    "dateConsultation": "14/05/2016"
+  },
+  {
+    "origine": "NextRadioTV",
+    "valeur": "100",
+    "cible": "RMC Découverte",
+    "source": "investir.lesechos.fr",
+    "datePublication": "02/02/2016",
+    "dateConsultation": "14/05/2016"
+  },
+  {
+    "origine": "NextRadioTV",
+    "valeur": "100",
+    "cible": "RMC",
+    "source": "investir.lesechos.fr",
+    "datePublication": "02/02/2016",
+    "dateConsultation": "14/05/2016"
+  },
+  {
+    "origine": "NextRadioTV",
+    "valeur": "100",
+    "cible": "BFM Business",
+    "source": "investir.lesechos.fr",
+    "datePublication": "02/02/2016",
+    "dateConsultation": "14/05/2016"
+  },
+  {
+    "origine": "NextRadioTV",
+    "valeur": "39",
+    "cible": "Numéro 23",
+    "source": "ouest-france.fr et actu-medias.com",
+    "datePublication": "13/04/2016",
+    "dateConsultation": "14/05/2016"
+  },
+  {
+    "origine": "Pascal Houzelot",
+    "valeur": "61",
+    "cible": "Numéro 23",
+    "source": "ouest-france.fr et actu-medias.com",
+    "datePublication": "13/04/2016",
+    "dateConsultation": "14/05/2016"
+  },
+  {
+    "origine": "Arnaud Lagardère",
+    "valeur": "7,96",
+    "cible": "Lagardère SCA",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Qatar Investment Authority",
+    "valeur": "12,83",
+    "cible": "Lagardère SCA",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Lagardère SCA",
+    "valeur": "100",
+    "cible": "Lagardère Active",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Lagardère Active",
+    "valeur": "100",
+    "cible": "Le Journal du dimanche",
+    "source": "lagardere.com",
+    "datePublication": "31/12/2015",
+    "dateConsultation": "14/05/2016"
+  },
+  {
+    "origine": "Lagardère Active",
+    "valeur": "100",
+    "cible": "Paris Match",
+    "source": "lagardere.com",
+    "datePublication": "31/12/2015",
+    "dateConsultation": "14/05/2016"
+  },
+  {
+    "origine": "Lagardère Active",
+    "valeur": "100",
+    "cible": "Gulli",
+    "source": "lagardere.com",
+    "datePublication": "31/12/2015",
+    "dateConsultation": "14/05/2016"
+  },
+  {
+    "origine": "Lagardère Active",
+    "valeur": "100",
+    "cible": "Europe 1",
+    "source": "lagardere.com",
+    "datePublication": "31/12/2015",
+    "dateConsultation": "14/05/2016"
+  },
+  {
+    "origine": "Lagardère Active",
+    "valeur": "100",
+    "cible": "RFM",
+    "source": "lagardere.com",
+    "datePublication": "31/12/2015",
+    "dateConsultation": "14/05/2016"
+  },
+  {
+    "origine": "Lagardère Active",
+    "valeur": "100",
+    "cible": "Virgin Radio",
+    "source": "lagardere.com",
+    "datePublication": "31/12/2015",
+    "dateConsultation": "14/05/2016"
+  },
+  {
+    "origine": "Vincent Bolloré",
+    "valeur": "49,77",
+    "cible": "Financière de l'Odet",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Financière de l'Odet",
+    "valeur": "64,4",
+    "cible": "Bolloré",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Bolloré",
+    "valeur": "100",
+    "cible": "CNews matin",
+    "source": "bollore.com, vivendi.com et ozap.com",
+    "datePublication": "31/12/2015, 21/04/2017 et 31/12/2015",
+    "dateConsultation": "28/06/2016 et 10/10/2016"
+  },
+  {
+    "origine": "Bolloré",
+    "valeur": "20,65",
+    "cible": "Vivendi",
+    "source": "bollore.com, vivendi.com et ozap.com",
+    "datePublication": "31/12/2015, 21/04/2017 et 31/12/2015",
+    "dateConsultation": "28/06/2016 et 10/10/2016"
+  },
+  {
+    "origine": "Vivendi",
+    "valeur": "100",
+    "cible": "Canal +",
+    "source": "bollore.com, vivendi.com et ozap.com",
+    "datePublication": "31/12/2015, 21/04/2017 et 31/12/2015",
+    "dateConsultation": "28/06/2016 et 10/10/2016"
+  },
+  {
+    "origine": "Vivendi",
+    "valeur": "100",
+    "cible": "C8",
+    "source": "bollore.com, vivendi.com et ozap.com",
+    "datePublication": "31/12/2015, 21/04/2017 et 31/12/2015",
+    "dateConsultation": "28/06/2016 et 10/10/2016"
+  },
+  {
+    "origine": "Vivendi",
+    "valeur": "100",
+    "cible": "CNews",
+    "source": "bollore.com, vivendi.com et ozap.com",
+    "datePublication": "31/12/2015, 21/04/2017 et 31/12/2015",
+    "dateConsultation": "28/06/2016 et 10/10/2016"
+  },
+  {
+    "origine": "Vivendi",
+    "valeur": "100",
+    "cible": "CStar",
+    "source": "bollore.com, vivendi.com et ozap.com",
+    "datePublication": "31/12/2015, 21/04/2017 et 31/12/2015",
+    "dateConsultation": "28/06/2016 et 10/10/2016"
+  },
+  {
+    "origine": "Iskandar Safa",
+    "valeur": "100",
+    "cible": "Privinvest",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Privinvest",
+    "valeur": ">50",
+    "cible": "Groupe Valmonde",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Groupe Valmonde",
+    "valeur": "100",
+    "cible": "Valeurs actuelles",
+    "source": "ozap.com",
+    "datePublication": "15/06/2017",
+    "dateConsultation": "16/10/2017"
+  },
+  {
+    "origine": "Groupe Valmonde",
+    "valeur": "100",
+    "cible": "Mieux vivre votre argent",
+    "source": "ozap.com",
+    "datePublication": "15/06/2017",
+    "dateConsultation": "16/10/2017"
+  },
+  {
+    "origine": "Yves de Chaisemartin",
+    "valeur": "86",
+    "cible": "Marianne",
+    "source": "Correspondance de la presse",
+    "datePublication": "19/12/2016",
+    "dateConsultation": "19/12/2016"
+  },
+  {
+    "origine": "François Pinault",
+    "valeur": "100",
+    "cible": "Artémis",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Artémis",
+    "valeur": "100",
+    "cible": "Groupe Sebdo-Le Point",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Artémis",
+    "valeur": "100",
+    "cible": "Groupe L'Agefi",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Artémis",
+    "valeur": "100",
+    "cible": "Point de vue",
+    "source": "Pressenews.fr",
+    "datePublication": "22/11/2017",
+    "dateConsultation": "23/11/2017"
+  },
+  {
+    "origine": "Groupe Sebdo-Le Point",
+    "valeur": "100",
+    "cible": "Le Point",
+    "source": "groupeartemis.com et agefi.fr",
+    "datePublication": "",
+    "dateConsultation": "28/06/2016"
+  },
+  {
+    "origine": "Groupe L'Agefi",
+    "valeur": "100",
+    "cible": "L'Agefi hebdo",
+    "source": "groupeartemis.com et agefi.fr",
+    "datePublication": "",
+    "dateConsultation": "28/06/2016"
+  },
+  {
+    "origine": "Famille Mohn",
+    "valeur": "contrôle",
+    "cible": "Bertelsmann",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Bertelsmann",
+    "valeur": "100",
+    "cible": "Gruner + Jahr",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Bertelsmann",
+    "valeur": "75",
+    "cible": "RTL Group",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Gruner + Jahr",
+    "valeur": "100",
+    "cible": "Prisma Media",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Prisma Media",
+    "valeur": "100",
+    "cible": "VSD",
+    "source": "investir.lesechos.fr",
+    "datePublication": "06/10/2014",
+    "dateConsultation": "14/05/2016"
+  },
+  {
+    "origine": "Prisma Media",
+    "valeur": "100",
+    "cible": "Capital",
+    "source": "investir.lesechos.fr",
+    "datePublication": "06/10/2014",
+    "dateConsultation": "14/05/2016"
+  },
+  {
+    "origine": "Prisma Media",
+    "valeur": "100",
+    "cible": "Management",
+    "source": "investir.lesechos.fr",
+    "datePublication": "06/10/2014",
+    "dateConsultation": "14/05/2016"
+  },
+  {
+    "origine": "Prisma Media",
+    "valeur": "100",
+    "cible": "Harvard Business Review",
+    "source": "investir.lesechos.fr",
+    "datePublication": "06/10/2014",
+    "dateConsultation": "14/05/2016"
+  },
+  {
+    "origine": "RTL Group",
+    "valeur": "48",
+    "cible": "Groupe M6",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Groupe M6",
+    "valeur": "100",
+    "cible": "M6",
+    "source": "zonebourse.com et AFP",
+    "datePublication": "... et 04/09/2017",
+    "dateConsultation": "14/05/2016 et 14/11/2017"
+  },
+  {
+    "origine": "Groupe M6",
+    "valeur": "100",
+    "cible": "W9",
+    "source": "zonebourse.com et AFP",
+    "datePublication": "... et 04/09/2017",
+    "dateConsultation": "14/05/2016 et 14/11/2017"
+  },
+  {
+    "origine": "Groupe M6",
+    "valeur": "100",
+    "cible": "6ter",
+    "source": "zonebourse.com et AFP",
+    "datePublication": "... et 04/09/2017",
+    "dateConsultation": "14/05/2016 et 14/11/2017"
+  },
+  {
+    "origine": "Groupe M6",
+    "valeur": "100",
+    "cible": "RTL",
+    "source": "zonebourse.com et AFP",
+    "datePublication": "... et 04/09/2017",
+    "dateConsultation": "14/05/2016 et 14/11/2017"
+  },
+  {
+    "origine": "Groupe M6",
+    "valeur": "100",
+    "cible": "RTL2",
+    "source": "zonebourse.com et AFP",
+    "datePublication": "... et 04/09/2017",
+    "dateConsultation": "14/05/2016 et 14/11/2017"
+  },
+  {
+    "origine": "Groupe M6",
+    "valeur": "100",
+    "cible": "Fun Radio",
+    "source": "zonebourse.com et AFP",
+    "datePublication": "... et 04/09/2017",
+    "dateConsultation": "14/05/2016 et 14/11/2017"
+  },
+  {
+    "origine": "Martin et Olivier Bouygues",
+    "valeur": "20",
+    "cible": "Bouygues",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Bouygues",
+    "valeur": "44",
+    "cible": "Groupe TF1",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Groupe TF1",
+    "valeur": "100",
+    "cible": "TF1",
+    "source": "bouygues.com et groupe-tf1.fr et votreargent.lexpress.fr",
+    "datePublication": "31/12/2016 et 31/12/2014 et 06/01/2015",
+    "dateConsultation": "28/06/2016"
+  },
+  {
+    "origine": "Groupe TF1",
+    "valeur": "100",
+    "cible": "NT1",
+    "source": "bouygues.com et groupe-tf1.fr et votreargent.lexpress.fr",
+    "datePublication": "31/12/2016 et 31/12/2014 et 06/01/2015",
+    "dateConsultation": "28/06/2016"
+  },
+  {
+    "origine": "Groupe TF1",
+    "valeur": "100",
+    "cible": "LCI",
+    "source": "bouygues.com et groupe-tf1.fr et votreargent.lexpress.fr",
+    "datePublication": "31/12/2016 et 31/12/2014 et 06/01/2015",
+    "dateConsultation": "28/06/2016"
+  },
+  {
+    "origine": "Groupe TF1",
+    "valeur": "100",
+    "cible": "HD1",
+    "source": "bouygues.com et groupe-tf1.fr et votreargent.lexpress.fr",
+    "datePublication": "31/12/2016 et 31/12/2014 et 06/01/2015",
+    "dateConsultation": "28/06/2016"
+  },
+  {
+    "origine": "Groupe TF1",
+    "valeur": "100",
+    "cible": "TMC",
+    "source": "bouygues.com",
+    "datePublication": "09/06/2016",
+    "dateConsultation": "28/06/2016"
+  },
+  {
+    "origine": "République française",
+    "valeur": "15",
+    "cible": "Renault",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Renault",
+    "valeur": "40",
+    "cible": "Groupe Perdriel",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "République française",
+    "valeur": "100",
+    "cible": "La Chaîne parlementaire",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "République française",
+    "valeur": "100",
+    "cible": "Public Sénat",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "République française",
+    "valeur": "100",
+    "cible": "France Médias Monde",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "République française",
+    "valeur": "100",
+    "cible": "France Télévision",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "République française",
+    "valeur": "100",
+    "cible": "Radio France",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "République française",
+    "valeur": "100",
+    "cible": "Arte France",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "France Médias Monde",
+    "valeur": "100",
+    "cible": "Monte Carlo Doualiya",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "France Médias Monde",
+    "valeur": "100",
+    "cible": "Radio France International",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "France Médias Monde",
+    "valeur": "100",
+    "cible": "France 24",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "France Médias Monde",
+    "valeur": "13",
+    "cible": "TV5 Monde",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "France Télévision",
+    "valeur": "49",
+    "cible": "TV5 Monde",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "France Télévision",
+    "valeur": "100",
+    "cible": "France 2",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "France Télévision",
+    "valeur": "100",
+    "cible": "France 3",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "France Télévision",
+    "valeur": "100",
+    "cible": "France 5",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "France Télévision",
+    "valeur": "100",
+    "cible": "France 4",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "France Télévision",
+    "valeur": "100",
+    "cible": "France Ô",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "France Télévision",
+    "valeur": "contrôle",
+    "cible": "France info",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Radio France",
+    "valeur": "100",
+    "cible": "France Inter",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Radio France",
+    "valeur": "100",
+    "cible": "France Musique",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Radio France",
+    "valeur": "100",
+    "cible": "France Culture",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Radio France",
+    "valeur": "100",
+    "cible": "FIP",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Radio France",
+    "valeur": "100",
+    "cible": "France Bleu",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Radio France",
+    "valeur": "100",
+    "cible": "France Info",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Radio France",
+    "valeur": "100",
+    "cible": "Mouv'",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Radio France",
+    "valeur": "contrôle",
+    "cible": "France info",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Arte France",
+    "valeur": "50",
+    "cible": "Arte",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "République fédérale d'Allemagne",
+    "valeur": "contrôle",
+    "cible": "ARD / ZDF",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "ARD / ZDF",
+    "valeur": "50",
+    "cible": "Arte Deutschland TV GmbH",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Arte Deutschland TV GmbH",
+    "valeur": "50",
+    "cible": "Arte",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Les Augustins de l'Assomption",
+    "valeur": "100",
+    "cible": "Bayard",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Bayard",
+    "valeur": "100",
+    "cible": "La Croix",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Bayard",
+    "valeur": "100",
+    "cible": "Pèlerin",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Bayard",
+    "valeur": "100",
+    "cible": "Notre temps",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Jean-Paul Baudecroux",
+    "valeur": "79,1",
+    "cible": "NRJ Group",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "NRJ Group",
+    "valeur": "100",
+    "cible": "NRJ 12",
+    "source": "nrjgroup.fr",
+    "datePublication": "31/12/2015",
+    "dateConsultation": "16/05/2016"
+  },
+  {
+    "origine": "NRJ Group",
+    "valeur": "100",
+    "cible": "Chérie 25",
+    "source": "nrjgroup.fr",
+    "datePublication": "31/12/2015",
+    "dateConsultation": "16/05/2016"
+  },
+  {
+    "origine": "NRJ Group",
+    "valeur": "100",
+    "cible": "NRJ",
+    "source": "nrjgroup.fr",
+    "datePublication": "31/12/2015",
+    "dateConsultation": "16/05/2016"
+  },
+  {
+    "origine": "NRJ Group",
+    "valeur": "100",
+    "cible": "Rire et Chansons",
+    "source": "nrjgroup.fr",
+    "datePublication": "31/12/2015",
+    "dateConsultation": "16/05/2016"
+  },
+  {
+    "origine": "NRJ Group",
+    "valeur": "100",
+    "cible": "Chérie FM",
+    "source": "nrjgroup.fr",
+    "datePublication": "31/12/2015",
+    "dateConsultation": "16/05/2016"
+  },
+  {
+    "origine": "NRJ Group",
+    "valeur": "100",
+    "cible": "Nostalgie",
+    "source": "nrjgroup.fr",
+    "datePublication": "31/12/2015",
+    "dateConsultation": "16/05/2016"
+  },
+  {
+    "origine": "Famille Hutin",
+    "valeur": "contrôle",
+    "cible": "Association pour le soutien des principes de la démocratie humaniste",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Association pour le soutien des principes de la démocratie humaniste",
+    "valeur": "100",
+    "cible": "Groupe SIPA - Ouest",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Groupe SIPA - Ouest",
+    "valeur": "100",
+    "cible": "Ouest France",
+    "source": "hebdoscom.com et precom.fr",
+    "datePublication": "",
+    "dateConsultation": "28/06/2016"
+  },
+  {
+    "origine": "Groupe SIPA - Ouest",
+    "valeur": "100",
+    "cible": "Le Courrier de l'Ouest",
+    "source": "hebdoscom.com et precom.fr",
+    "datePublication": "",
+    "dateConsultation": "28/06/2016"
+  },
+  {
+    "origine": "Groupe SIPA - Ouest",
+    "valeur": "100",
+    "cible": "Le Maine libre",
+    "source": "hebdoscom.com et precom.fr",
+    "datePublication": "",
+    "dateConsultation": "28/06/2016"
+  },
+  {
+    "origine": "Groupe SIPA - Ouest",
+    "valeur": "100",
+    "cible": "Presse-Océan",
+    "source": "hebdoscom.com et precom.fr",
+    "datePublication": "",
+    "dateConsultation": "28/06/2016"
+  },
+  {
+    "origine": "Groupe SIPA - Ouest",
+    "valeur": "100",
+    "cible": "La Presse de la Manche",
+    "source": "hebdoscom.com et precom.fr",
+    "datePublication": "",
+    "dateConsultation": "28/06/2016"
+  },
+  {
+    "origine": "Groupe SIPA - Ouest",
+    "valeur": "100",
+    "cible": "Publi Hebdos",
+    "source": "publihebdos.com",
+    "datePublication": "",
+    "dateConsultation": "04/05/2016"
+  },
+  {
+    "origine": "Groupe SIPA - Ouest",
+    "valeur": "40",
+    "cible": "Sofiouest",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Sofiouest",
+    "valeur": "50",
+    "cible": "20 Minutes",
+    "source": "cbnews.fr et lavoixdunord.fr",
+    "datePublication": "07/01/2016 et 20/06/2015",
+    "dateConsultation": "05/05/2016"
+  },
+  {
+    "origine": "Famille Hurbain",
+    "valeur": "contrôle",
+    "cible": "Groupe Rossel",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Groupe Rossel",
+    "valeur": "73",
+    "cible": "Groupe Rossel La Voix",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Crédit Agricole Nord de France",
+    "valeur": "25",
+    "cible": "Groupe Rossel La Voix",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Groupe Rossel La Voix",
+    "valeur": "49",
+    "cible": "20 Minutes",
+    "source": "cbnews.fr et lavoixdunord.fr",
+    "datePublication": "07/01/2016 et 20/06/2015",
+    "dateConsultation": "05/05/2016"
+  },
+  {
+    "origine": "Groupe Rossel La Voix",
+    "valeur": "96",
+    "cible": "La Voix du Nord SA",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "La Voix du Nord SA",
+    "valeur": "100",
+    "cible": "La Voix du Nord",
+    "source": "latribune.fr et rossel-lavoix.fr",
+    "datePublication": "11/01/2016 et 04/09/2013",
+    "dateConsultation": "28/06/2016"
+  },
+  {
+    "origine": "La Voix du Nord SA",
+    "valeur": "100",
+    "cible": "Nord éclair",
+    "source": "latribune.fr et rossel-lavoix.fr",
+    "datePublication": "11/01/2016 et 04/09/2013",
+    "dateConsultation": "28/06/2016"
+  },
+  {
+    "origine": "La Voix du Nord SA",
+    "valeur": "100",
+    "cible": "Nord Littoral",
+    "source": "latribune.fr et rossel-lavoix.fr",
+    "datePublication": "11/01/2016 et 04/09/2013",
+    "dateConsultation": "28/06/2016"
+  },
+  {
+    "origine": "La Voix du Nord SA",
+    "valeur": "100",
+    "cible": "Courrier picard",
+    "source": "latribune.fr et rossel-lavoix.fr",
+    "datePublication": "11/01/2016 et 04/09/2013",
+    "dateConsultation": "28/06/2016"
+  },
+  {
+    "origine": "La Voix du Nord SA",
+    "valeur": "100",
+    "cible": "L'aisne Nouvelle",
+    "source": "latribune.fr et rossel-lavoix.fr",
+    "datePublication": "11/01/2016 et 04/09/2013",
+    "dateConsultation": "28/06/2016"
+  },
+  {
+    "origine": "La Voix du Nord SA",
+    "valeur": "100",
+    "cible": "L'Union - L'Ardennais",
+    "source": "latribune.fr et rossel-lavoix.fr",
+    "datePublication": "11/01/2016 et 04/09/2013",
+    "dateConsultation": "28/06/2016"
+  },
+  {
+    "origine": "La Voix du Nord SA",
+    "valeur": "100",
+    "cible": "L'Est-éclair - Libération Champagne",
+    "source": "latribune.fr et rossel-lavoix.fr",
+    "datePublication": "11/01/2016 et 04/09/2013",
+    "dateConsultation": "28/06/2016"
+  },
+  {
+    "origine": "La Voix du Nord SA",
+    "valeur": "100",
+    "cible": "L'Avenir de l'Artois",
+    "source": "latribune.fr et rossel-lavoix.fr",
+    "datePublication": "11/01/2016 et 04/09/2013",
+    "dateConsultation": "28/06/2016"
+  },
+  {
+    "origine": "La Voix du Nord SA",
+    "valeur": "100",
+    "cible": "Les Echos du Touquet",
+    "source": "latribune.fr et rossel-lavoix.fr",
+    "datePublication": "11/01/2016 et 04/09/2013",
+    "dateConsultation": "28/06/2016"
+  },
+  {
+    "origine": "La Voix du Nord SA",
+    "valeur": "100",
+    "cible": "Le Journal des Flandres",
+    "source": "latribune.fr et rossel-lavoix.fr",
+    "datePublication": "11/01/2016 et 04/09/2013",
+    "dateConsultation": "28/06/2016"
+  },
+  {
+    "origine": "La Voix du Nord SA",
+    "valeur": "100",
+    "cible": "Le Messager",
+    "source": "latribune.fr et rossel-lavoix.fr",
+    "datePublication": "11/01/2016 et 04/09/2013",
+    "dateConsultation": "28/06/2016"
+  },
+  {
+    "origine": "La Voix du Nord SA",
+    "valeur": "100",
+    "cible": "L'Essor savoyard",
+    "source": "latribune.fr et rossel-lavoix.fr",
+    "datePublication": "11/01/2016 et 04/09/2013",
+    "dateConsultation": "28/06/2016"
+  },
+  {
+    "origine": "La Voix du Nord SA",
+    "valeur": "100",
+    "cible": "Le Pays gessien",
+    "source": "latribune.fr et rossel-lavoix.fr",
+    "datePublication": "11/01/2016 et 04/09/2013",
+    "dateConsultation": "28/06/2016"
+  },
+  {
+    "origine": "La Voix du Nord SA",
+    "valeur": "100",
+    "cible": "La Tribune républicaine",
+    "source": "latribune.fr et rossel-lavoix.fr",
+    "datePublication": "11/01/2016 et 04/09/2013",
+    "dateConsultation": "28/06/2016"
+  },
+  {
+    "origine": "La Voix du Nord SA",
+    "valeur": "100",
+    "cible": "La Savoie",
+    "source": "latribune.fr et rossel-lavoix.fr",
+    "datePublication": "11/01/2016 et 04/09/2013",
+    "dateConsultation": "28/06/2016"
+  },
+  {
+    "origine": "La Voix du Nord SA",
+    "valeur": "100",
+    "cible": "Le Phare Dunkerquois",
+    "source": "latribune.fr et rossel-lavoix.fr",
+    "datePublication": "11/01/2016 et 04/09/2013",
+    "dateConsultation": "28/06/2016"
+  },
+  {
+    "origine": "La Voix du Nord SA",
+    "valeur": "100",
+    "cible": "La Semaine dans le Boulonnais",
+    "source": "latribune.fr et rossel-lavoix.fr",
+    "datePublication": "11/01/2016 et 04/09/2013",
+    "dateConsultation": "28/06/2016"
+  },
+  {
+    "origine": "La Voix du Nord SA",
+    "valeur": "100",
+    "cible": "Le Réveil de Berck",
+    "source": "latribune.fr et rossel-lavoix.fr",
+    "datePublication": "11/01/2016 et 04/09/2013",
+    "dateConsultation": "28/06/2016"
+  },
+  {
+    "origine": "La Voix du Nord SA",
+    "valeur": "100",
+    "cible": "Le Journal de Montreuil",
+    "source": "latribune.fr et rossel-lavoix.fr",
+    "datePublication": "11/01/2016 et 04/09/2013",
+    "dateConsultation": "28/06/2016"
+  },
+  {
+    "origine": "La Voix du Nord SA",
+    "valeur": "100",
+    "cible": "L'indicateur",
+    "source": "latribune.fr et rossel-lavoix.fr",
+    "datePublication": "11/01/2016 et 04/09/2013",
+    "dateConsultation": "28/06/2016"
+  },
+  {
+    "origine": "La Voix du Nord SA",
+    "valeur": "100",
+    "cible": "L'Echo de la Lys",
+    "source": "latribune.fr et rossel-lavoix.fr",
+    "datePublication": "11/01/2016 et 04/09/2013",
+    "dateConsultation": "28/06/2016"
+  },
+  {
+    "origine": "Crédit Mutuel",
+    "valeur": "100",
+    "cible": "Groupe EBRA",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Groupe EBRA",
+    "valeur": "100",
+    "cible": "L'Est républicain",
+    "source": "ebra.fr",
+    "datePublication": "2009",
+    "dateConsultation": "04/05/2016"
+  },
+  {
+    "origine": "Groupe EBRA",
+    "valeur": "100",
+    "cible": "Le Républicain lorrain",
+    "source": "ebra.fr",
+    "datePublication": "2009",
+    "dateConsultation": "04/05/2016"
+  },
+  {
+    "origine": "Groupe EBRA",
+    "valeur": "100",
+    "cible": "DNA",
+    "source": "ebra.fr",
+    "datePublication": "2009",
+    "dateConsultation": "04/05/2016"
+  },
+  {
+    "origine": "Groupe EBRA",
+    "valeur": "100",
+    "cible": "Vosges Matin",
+    "source": "ebra.fr",
+    "datePublication": "2009",
+    "dateConsultation": "04/05/2016"
+  },
+  {
+    "origine": "Groupe EBRA",
+    "valeur": "100",
+    "cible": "L'Alsace",
+    "source": "ebra.fr",
+    "datePublication": "2009",
+    "dateConsultation": "04/05/2016"
+  },
+  {
+    "origine": "Groupe EBRA",
+    "valeur": "100",
+    "cible": "Le Bien public",
+    "source": "ebra.fr",
+    "datePublication": "2009",
+    "dateConsultation": "04/05/2016"
+  },
+  {
+    "origine": "Groupe EBRA",
+    "valeur": "100",
+    "cible": "Le Journal de Saône-et-Loire",
+    "source": "ebra.fr",
+    "datePublication": "2009",
+    "dateConsultation": "04/05/2016"
+  },
+  {
+    "origine": "Groupe EBRA",
+    "valeur": "100",
+    "cible": "Le Progrès",
+    "source": "ebra.fr",
+    "datePublication": "2009",
+    "dateConsultation": "04/05/2016"
+  },
+  {
+    "origine": "Groupe EBRA",
+    "valeur": "100",
+    "cible": "Le Dauphiné libéré",
+    "source": "ebra.fr",
+    "datePublication": "2009",
+    "dateConsultation": "04/05/2016"
+  },
+  {
+    "origine": "Groupe EBRA",
+    "valeur": "100",
+    "cible": "Vaucluse Matin",
+    "source": "ebra.fr",
+    "datePublication": "2009",
+    "dateConsultation": "04/05/2016"
+  },
+  {
+    "origine": "Groupe EBRA",
+    "valeur": "50",
+    "cible": "Le Journal de la Haute-Marne",
+    "source": "wikipedia.org",
+    "datePublication": "",
+    "dateConsultation": "04/05/2016"
+  },
+  {
+    "origine": "Fondation Varenne",
+    "valeur": ">50",
+    "cible": "Groupe La Montagne",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Groupe La Montagne",
+    "valeur": "100",
+    "cible": "La Montagne",
+    "source": "lamontagne.fr",
+    "datePublication": "",
+    "dateConsultation": "04/05/2016"
+  },
+  {
+    "origine": "Groupe La Montagne",
+    "valeur": "100",
+    "cible": "Le Populaire du centre",
+    "source": "lamontagne.fr",
+    "datePublication": "",
+    "dateConsultation": "04/05/2016"
+  },
+  {
+    "origine": "Groupe La Montagne",
+    "valeur": "100",
+    "cible": "Le Journal du centre",
+    "source": "lamontagne.fr",
+    "datePublication": "",
+    "dateConsultation": "04/05/2016"
+  },
+  {
+    "origine": "Groupe La Montagne",
+    "valeur": "100",
+    "cible": "Le Berry républicain",
+    "source": "lamontagne.fr",
+    "datePublication": "",
+    "dateConsultation": "04/05/2016"
+  },
+  {
+    "origine": "Groupe La Montagne",
+    "valeur": "100",
+    "cible": "L’Yonne Républicaine",
+    "source": "lamontagne.fr",
+    "datePublication": "",
+    "dateConsultation": "04/05/2016"
+  },
+  {
+    "origine": "Groupe La Montagne",
+    "valeur": "100",
+    "cible": "L’Echo Républicain",
+    "source": "lamontagne.fr",
+    "datePublication": "",
+    "dateConsultation": "04/05/2016"
+  },
+  {
+    "origine": "Groupe La Montagne",
+    "valeur": "100",
+    "cible": "Courrier du Loiret",
+    "source": "lamontagne.fr",
+    "datePublication": "",
+    "dateConsultation": "04/05/2016"
+  },
+  {
+    "origine": "Groupe La Montagne",
+    "valeur": "100",
+    "cible": "L’Eclaireur du Gâtinais",
+    "source": "lamontagne.fr",
+    "datePublication": "",
+    "dateConsultation": "04/05/2016"
+  },
+  {
+    "origine": "Groupe La Montagne",
+    "valeur": "100",
+    "cible": "Régional de Cosne",
+    "source": "lamontagne.fr",
+    "datePublication": "",
+    "dateConsultation": "04/05/2016"
+  },
+  {
+    "origine": "Groupe La Montagne",
+    "valeur": "100",
+    "cible": "L’Echo Charitois",
+    "source": "lamontagne.fr",
+    "datePublication": "",
+    "dateConsultation": "04/05/2016"
+  },
+  {
+    "origine": "Groupe La Montagne",
+    "valeur": "100",
+    "cible": "Pays Roannais",
+    "source": "lamontagne.fr",
+    "datePublication": "",
+    "dateConsultation": "04/05/2016"
+  },
+  {
+    "origine": "Groupe La Montagne",
+    "valeur": "100",
+    "cible": "La Liberté",
+    "source": "lamontagne.fr",
+    "datePublication": "",
+    "dateConsultation": "04/05/2016"
+  },
+  {
+    "origine": "Groupe La Montagne",
+    "valeur": "100",
+    "cible": "Journal de Gien",
+    "source": "lamontagne.fr",
+    "datePublication": "",
+    "dateConsultation": "04/05/2016"
+  },
+  {
+    "origine": "Groupe La Montagne",
+    "valeur": "70",
+    "cible": "La République du Centre",
+    "source": "docpresse.esj-lille.fr",
+    "datePublication": "22/03/2012",
+    "dateConsultation": "30/06/2016"
+  },
+  {
+    "origine": "Groupe La Montagne",
+    "valeur": "16",
+    "cible": "Groupe NRCO",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Famille Saint-Cricq",
+    "valeur": "15",
+    "cible": "Groupe NRCO",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Groupe NRCO",
+    "valeur": "30",
+    "cible": "La République du Centre",
+    "source": "docpresse.esj-lille.fr",
+    "datePublication": "22/03/2012",
+    "dateConsultation": "30/06/2016"
+  },
+  {
+    "origine": "Groupe NRCO",
+    "valeur": "100",
+    "cible": "Nouvelle République du Centre",
+    "source": "lesechos.fr",
+    "datePublication": "04/01/2012",
+    "dateConsultation": "05/05/2016"
+  },
+  {
+    "origine": "Groupe NRCO",
+    "valeur": "100",
+    "cible": "Centre Presse",
+    "source": "wikipedia.org",
+    "datePublication": "",
+    "dateConsultation": "05/05/2016"
+  },
+  {
+    "origine": "Groupe NRCO",
+    "valeur": "40",
+    "cible": "TV Tours",
+    "source": "wikipedia.org",
+    "datePublication": "",
+    "dateConsultation": "05/05/2016"
+  },
+  {
+    "origine": "Famille Baylet",
+    "valeur": "82,5",
+    "cible": "Groupe La Dépêche",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Groupe La Dépêche",
+    "valeur": "100",
+    "cible": "La Dépêche du midi",
+    "source": "strategies.fr et ladepeche-diffusion.com",
+    "datePublication": "10/12/2010",
+    "dateConsultation": "26/11/2016 et 05/05/2016"
+  },
+  {
+    "origine": "Groupe La Dépêche",
+    "valeur": "100",
+    "cible": "Le Petit Bleu",
+    "source": "strategies.fr et ladepeche-diffusion.com",
+    "datePublication": "10/12/2010",
+    "dateConsultation": "26/11/2016 et 05/05/2016"
+  },
+  {
+    "origine": "Groupe La Dépêche",
+    "valeur": "100",
+    "cible": "La Nouvelle République des Pyrénées",
+    "source": "strategies.fr et ladepeche-diffusion.com",
+    "datePublication": "10/12/2010",
+    "dateConsultation": "26/11/2016 et 05/05/2016"
+  },
+  {
+    "origine": "Groupe La Dépêche",
+    "valeur": "100",
+    "cible": "Le Villefranchois",
+    "source": "strategies.fr et ladepeche-diffusion.com",
+    "datePublication": "10/12/2010",
+    "dateConsultation": "26/11/2016 et 05/05/2016"
+  },
+  {
+    "origine": "Groupe La Dépêche",
+    "valeur": "100",
+    "cible": "La Gazette du Comminges",
+    "source": "strategies.fr et ladepeche-diffusion.com",
+    "datePublication": "10/12/2010",
+    "dateConsultation": "26/11/2016 et 05/05/2016"
+  },
+  {
+    "origine": "Groupe La Dépêche",
+    "valeur": "100",
+    "cible": "Les Journaux du midi",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Les Journaux du midi",
+    "valeur": "100",
+    "cible": "Midi libre",
+    "source": "ladepeche.fr",
+    "datePublication": "27/06/2015",
+    "dateConsultation": "05/05/2016"
+  },
+  {
+    "origine": "Les Journaux du midi",
+    "valeur": "100",
+    "cible": "L'Indépendant",
+    "source": "ladepeche.fr",
+    "datePublication": "27/06/2015",
+    "dateConsultation": "05/05/2016"
+  },
+  {
+    "origine": "Les Journaux du midi",
+    "valeur": "100",
+    "cible": "Centre Presse Aveyron",
+    "source": "ladepeche.fr",
+    "datePublication": "27/06/2015",
+    "dateConsultation": "05/05/2016"
+  },
+  {
+    "origine": "Famille Lemoine",
+    "valeur": "80",
+    "cible": "Groupe Sud Ouest",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Groupe Sud Ouest",
+    "valeur": "100",
+    "cible": "Sud Ouest",
+    "source": "groupesudouest.com et lefigaro.fr",
+    "datePublication": "non daté et 26/02/2013",
+    "dateConsultation": "05/05/2016"
+  },
+  {
+    "origine": "Groupe Sud Ouest",
+    "valeur": "100",
+    "cible": "Charente Libre",
+    "source": "groupesudouest.com et lefigaro.fr",
+    "datePublication": "non daté et 26/02/2013",
+    "dateConsultation": "05/05/2016"
+  },
+  {
+    "origine": "Groupe Sud Ouest",
+    "valeur": "100",
+    "cible": "Dordogne Libre",
+    "source": "groupesudouest.com et lefigaro.fr",
+    "datePublication": "non daté et 26/02/2013",
+    "dateConsultation": "05/05/2016"
+  },
+  {
+    "origine": "Groupe Sud Ouest",
+    "valeur": "100",
+    "cible": "Haute Saintonge",
+    "source": "groupesudouest.com et lefigaro.fr",
+    "datePublication": "non daté et 26/02/2013",
+    "dateConsultation": "05/05/2016"
+  },
+  {
+    "origine": "Groupe Sud Ouest",
+    "valeur": "100",
+    "cible": "Haute Gironde",
+    "source": "groupesudouest.com et lefigaro.fr",
+    "datePublication": "non daté et 26/02/2013",
+    "dateConsultation": "05/05/2016"
+  },
+  {
+    "origine": "Groupe Sud Ouest",
+    "valeur": "100",
+    "cible": "Le Résistant",
+    "source": "groupesudouest.com et lefigaro.fr",
+    "datePublication": "non daté et 26/02/2013",
+    "dateConsultation": "05/05/2016"
+  },
+  {
+    "origine": "Groupe Sud Ouest",
+    "valeur": "100",
+    "cible": "L'Hebdo de Charente-Maritime",
+    "source": "groupesudouest.com et lefigaro.fr",
+    "datePublication": "non daté et 26/02/2013",
+    "dateConsultation": "05/05/2016"
+  },
+  {
+    "origine": "Groupe Sud Ouest",
+    "valeur": "100",
+    "cible": "La Dépêche du Bassin",
+    "source": "groupesudouest.com et lefigaro.fr",
+    "datePublication": "non daté et 26/02/2013",
+    "dateConsultation": "05/05/2016"
+  },
+  {
+    "origine": "Groupe Sud Ouest",
+    "valeur": "100",
+    "cible": "Le Journal du Médoc",
+    "source": "groupesudouest.com et lefigaro.fr",
+    "datePublication": "non daté et 26/02/2013",
+    "dateConsultation": "05/05/2016"
+  },
+  {
+    "origine": "Groupe Sud Ouest",
+    "valeur": "100",
+    "cible": "Pyrénées Presse",
+    "source": "groupesudouest.com et lefigaro.fr",
+    "datePublication": "non daté et 26/02/2013",
+    "dateConsultation": "05/05/2016"
+  },
+  {
+    "origine": "Pyrénées Presse",
+    "valeur": "100",
+    "cible": "La République des Pyrénées",
+    "source": "groupesudouest.com et lefigaro.fr",
+    "datePublication": "non daté et 26/02/2013",
+    "dateConsultation": "05/05/2016"
+  },
+  {
+    "origine": "Pyrénées Presse",
+    "valeur": "100",
+    "cible": "L'Eclair",
+    "source": "groupesudouest.com et lefigaro.fr",
+    "datePublication": "non daté et 26/02/2013",
+    "dateConsultation": "05/05/2016"
+  },
+  {
+    "origine": "Édouard Coudurier",
+    "valeur": "contrôle",
+    "cible": "Groupe Télégramme",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Groupe Télégramme",
+    "valeur": "100",
+    "cible": "Le Télégramme",
+    "source": "groupe-telegramme.com",
+    "datePublication": "",
+    "dateConsultation": "05/05/2016"
+  },
+  {
+    "origine": "Groupe Télégramme",
+    "valeur": "100",
+    "cible": "Le Poher",
+    "source": "groupe-telegramme.com",
+    "datePublication": "",
+    "dateConsultation": "05/05/2016"
+  },
+  {
+    "origine": "Groupe Télégramme",
+    "valeur": "100",
+    "cible": "Tébéo",
+    "source": "groupe-telegramme.com",
+    "datePublication": "",
+    "dateConsultation": "05/05/2016"
+  },
+  {
+    "origine": "Groupe Télégramme",
+    "valeur": "100",
+    "cible": "Tébésud",
+    "source": "groupe-telegramme.com",
+    "datePublication": "",
+    "dateConsultation": "05/05/2016"
+  },
+  {
+    "origine": "Groupe Télégramme",
+    "valeur": "100",
+    "cible": "Le Mensuel de Rennes",
+    "source": "groupe-telegramme.com",
+    "datePublication": "",
+    "dateConsultation": "05/05/2016"
+  },
+  {
+    "origine": "Groupe Télégramme",
+    "valeur": "100",
+    "cible": "Sept Jours à Brest",
+    "source": "groupe-telegramme.com",
+    "datePublication": "",
+    "dateConsultation": "05/05/2016"
+  },
+  {
+    "origine": "Groupe Télégramme",
+    "valeur": "100",
+    "cible": "Le Journal des entreprises",
+    "source": "groupe-telegramme.com",
+    "datePublication": "",
+    "dateConsultation": "05/05/2016"
+  },
+  {
+    "origine": "Groupe Télégramme",
+    "valeur": "50",
+    "cible": "Bretagne magazine",
+    "source": "groupe-telegramme.com",
+    "datePublication": "",
+    "dateConsultation": "05/05/2016"
+  },
+  {
+    "origine": "Bernard Tapie",
+    "valeur": "89",
+    "cible": "Groupe La Provence",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Nethys",
+    "valeur": "11",
+    "cible": "Groupe La Provence",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Nethys",
+    "valeur": "20",
+    "cible": "Nice-Matin",
+    "source": "lesechos.fr",
+    "datePublication": "10/05/2016",
+    "dateConsultation": "28/06/2016"
+  },
+  {
+    "origine": "Groupe La Provence",
+    "valeur": "100",
+    "cible": "Corse Matin",
+    "source": "lesechos.fr",
+    "datePublication": "30/10/2015",
+    "dateConsultation": "06/05/2016"
+  },
+  {
+    "origine": "Groupe La Provence",
+    "valeur": "100",
+    "cible": "La Provence",
+    "source": "lesechos.fr",
+    "datePublication": "30/10/2015",
+    "dateConsultation": "06/05/2016"
+  },
+  {
+    "origine": "Xavier Ellie",
+    "valeur": "100",
+    "cible": "Société Normande d'Information et de Communication",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Société Normande d'Information et de Communication",
+    "valeur": "100",
+    "cible": "Paris-Normandie",
+    "source": "lesechos.fr et wikipedia.org",
+    "datePublication": "05/04/2016",
+    "dateConsultation": "06/05/2016"
+  },
+  {
+    "origine": "Société Normande d'Information et de Communication",
+    "valeur": "100",
+    "cible": "Havre Libre",
+    "source": "lesechos.fr et wikipedia.org",
+    "datePublication": "05/04/2016",
+    "dateConsultation": "06/05/2016"
+  },
+  {
+    "origine": "Société Normande d'Information et de Communication",
+    "valeur": "100",
+    "cible": "Le Progrès de Fécamp",
+    "source": "lesechos.fr et wikipedia.org",
+    "datePublication": "05/04/2016",
+    "dateConsultation": "06/05/2016"
+  },
+  {
+    "origine": "Société Normande d'Information et de Communication",
+    "valeur": "100",
+    "cible": "Liberté Dimanche",
+    "source": "lesechos.fr et wikipedia.org",
+    "datePublication": "05/04/2016",
+    "dateConsultation": "06/05/2016"
+  },
+  {
+    "origine": "Société Normande d'Information et de Communication",
+    "valeur": "100",
+    "cible": "Havre Dimanche",
+    "source": "lesechos.fr et wikipedia.org",
+    "datePublication": "05/04/2016",
+    "dateConsultation": "06/05/2016"
+  },
+  {
+    "origine": "Société Normande d'Information et de Communication",
+    "valeur": "100",
+    "cible": "Normandie Dimanche",
+    "source": "lesechos.fr et wikipedia.org",
+    "datePublication": "05/04/2016",
+    "dateConsultation": "06/05/2016"
+  },
+  {
+    "origine": "Philippe Hersant",
+    "valeur": "100",
+    "cible": "Éditions Suisses Holding",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Philippe Hersant",
+    "valeur": "100",
+    "cible": "Groupe Hersant Média",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Éditions Suisses Holding",
+    "valeur": ">50",
+    "cible": "Groupe Filanosa",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Éditions Suisses Holding",
+    "valeur": ">50",
+    "cible": "Rhône Média",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Groupe Filanosa",
+    "valeur": "100",
+    "cible": "La Côte (Nyon)",
+    "source": "syndicom.ch",
+    "datePublication": "16/03/2015",
+    "dateConsultation": "06/05/2016"
+  },
+  {
+    "origine": "Groupe Filanosa",
+    "valeur": "100",
+    "cible": "L'Express (Neuchâtel)",
+    "source": "syndicom.ch",
+    "datePublication": "16/03/2015",
+    "dateConsultation": "06/05/2016"
+  },
+  {
+    "origine": "Groupe Filanosa",
+    "valeur": "100",
+    "cible": "L'Impartial (La Chaux-de-Fonds)",
+    "source": "syndicom.ch",
+    "datePublication": "16/03/2015",
+    "dateConsultation": "06/05/2016"
+  },
+  {
+    "origine": "Rhône Média",
+    "valeur": "100",
+    "cible": "Le Nouvelliste",
+    "source": "syndicom.ch",
+    "datePublication": "16/03/2015",
+    "dateConsultation": "06/05/2016"
+  },
+  {
+    "origine": "Rhône Média",
+    "valeur": "100",
+    "cible": "La Gazette de Martigny",
+    "source": "syndicom.ch",
+    "datePublication": "16/03/2015",
+    "dateConsultation": "06/05/2016"
+  },
+  {
+    "origine": "Rhône Média",
+    "valeur": "100",
+    "cible": "Le Journal de Sierre",
+    "source": "syndicom.ch",
+    "datePublication": "16/03/2015",
+    "dateConsultation": "06/05/2016"
+  },
+  {
+    "origine": "Groupe Hersant Média",
+    "valeur": "100",
+    "cible": "France Antilles",
+    "source": "wikipedia.org",
+    "datePublication": "",
+    "dateConsultation": "06/05/2016"
+  },
+  {
+    "origine": "Groupe Hersant Média",
+    "valeur": "100",
+    "cible": "France Guyane",
+    "source": "wikipedia.org",
+    "datePublication": "",
+    "dateConsultation": "06/05/2016"
+  },
+  {
+    "origine": "Abdoul Cadjee",
+    "valeur": ">50",
+    "cible": "Le Journal de l'Île de la Réunion",
+    "source": "ipreunion.com",
+    "datePublication": "28/01/2016",
+    "dateConsultation": "21/10/2017"
+  },
+  {
+    "origine": "Benjamin et Ariane de Rothschild",
+    "valeur": "contrôle",
+    "cible": "Lampsane Investissement SA",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Lampsane Investissement SA",
+    "valeur": ">50",
+    "cible": "Slate.fr",
+    "source": "bilan.ch",
+    "datePublication": "18/08/2017",
+    "dateConsultation": "16/10/2017"
+  },
+  {
+    "origine": "Jean-Sébastien Ferjou",
+    "valeur": ">50",
+    "cible": "Atlantico.fr",
+    "source": "cbnews.fr",
+    "datePublication": "18/09/2012",
+    "dateConsultation": "10/07/2016"
+  },
+  {
+    "origine": "Pierre Guyot",
+    "valeur": ">50",
+    "cible": "Atlantico.fr",
+    "source": "cbnews.fr",
+    "datePublication": "18/09/2012",
+    "dateConsultation": "10/07/2016"
+  },
+  {
+    "origine": "Gérard Lignac",
+    "valeur": ">50",
+    "cible": "Atlantico.fr",
+    "source": "cbnews.fr",
+    "datePublication": "18/09/2012",
+    "dateConsultation": "10/07/2016"
+  },
+  {
+    "origine": "Franck Julien",
+    "valeur": "contrôle",
+    "cible": "Edi Invest",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Edi Invest",
+    "valeur": "37,4",
+    "cible": "Hima Groupe",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Jean Christophe Tortora",
+    "valeur": "17",
+    "cible": "Hima Groupe",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Laurent Alexandre",
+    "valeur": "28",
+    "cible": "Hima Groupe",
+    "source": "",
+    "datePublication": "",
+    "dateConsultation": ""
+  },
+  {
+    "origine": "Hima Groupe",
+    "valeur": "contrôle",
+    "cible": "La Tribune",
+    "source": "lefigaro.fr",
+    "datePublication": "15/12/2016",
+    "dateConsultation": "04/03/2017"
+  },
+  {
+    "origine": ""
+  }
+]
