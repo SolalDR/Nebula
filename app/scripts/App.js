@@ -90,7 +90,7 @@ export default class App {
 
         this.scene.add( this.group );
         this.group.add( this.nebula.mesh );
-        this.group.add( this.nebula.debugPlane );
+        // this.group.add( this.nebula.debugPlane );
 
         this.onWindowResize();
         this.renderer.animate( this.render.bind(this) );

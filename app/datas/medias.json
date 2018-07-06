@@ -2153,7 +2153,7 @@
     "mediaPeriodicite": "Hebdomadaire",
     "mediaEchelle": "Régional",
     "commentaire": "",
-    "diffusion": null
+    "diffusion": 3746 
   },
   {
     "nom": "La Tribune républicaine",
@@ -2164,7 +2164,7 @@
     "mediaPeriodicite": "Hebdomadaire",
     "mediaEchelle": "Régional",
     "commentaire": "",
-    "diffusion": null
+    "diffusion": 2754 
   },
   {
     "nom": "La Savoie",
@@ -2175,7 +2175,7 @@
     "mediaPeriodicite": "Hebdomadaire",
     "mediaEchelle": "Régional",
     "commentaire": "",
-    "diffusion": null
+    "diffusion": 3394 
   },
   {
     "nom": "Le Phare Dunkerquois",
@@ -2186,7 +2186,7 @@
     "mediaPeriodicite": "Hebdomadaire",
     "mediaEchelle": "Régional",
     "commentaire": "",
-    "diffusion": null
+    "diffusion": 4273
   },
   {
     "nom": "La Semaine dans le Boulonnais",
@@ -2197,7 +2197,7 @@
     "mediaPeriodicite": "Hebdomadaire",
     "mediaEchelle": "Régional",
     "commentaire": "",
-    "diffusion": null
+    "diffusion": 8473 
   },
   {
     "nom": "Le Réveil de Berck",
@@ -2208,7 +2208,7 @@
     "mediaPeriodicite": "Hebdomadaire",
     "mediaEchelle": "Régional",
     "commentaire": "",
-    "diffusion": null
+    "diffusion": 2888 
   },
   {
     "nom": "Le Journal de Montreuil",
@@ -2219,7 +2219,7 @@
     "mediaPeriodicite": "Hebdomadaire",
     "mediaEchelle": "Régional",
     "commentaire": "",
-    "diffusion": null
+    "diffusion": 4901 
   },
   {
     "nom": "L'indicateur",
@@ -2230,7 +2230,7 @@
     "mediaPeriodicite": "Hebdomadaire",
     "mediaEchelle": "Régional",
     "commentaire": "",
-    "diffusion": null
+    "diffusion": 7695 
   },
   {
     "nom": "L'Echo de la Lys",
@@ -2241,7 +2241,7 @@
     "mediaPeriodicite": "Hebdomadaire",
     "mediaEchelle": "Régional",
     "commentaire": "",
-    "diffusion": null
+    "diffusion": 6251 
   },
   {
     "nom": "Crédit Mutuel",
@@ -2274,7 +2274,7 @@
     "mediaPeriodicite": "Quotidien",
     "mediaEchelle": "Régional",
     "commentaire": "",
-    "diffusion": null
+    "diffusion": 121563 
   },
   {
     "nom": "Le Républicain lorrain",
@@ -2285,7 +2285,7 @@
     "mediaPeriodicite": "Quotidien",
     "mediaEchelle": "Régional",
     "commentaire": "",
-    "diffusion": null
+    "diffusion": 100195 
   },
   {
     "nom": "DNA",
@@ -2307,7 +2307,7 @@
     "mediaPeriodicite": "Quotidien",
     "mediaEchelle": "Régional",
     "commentaire": "",
-    "diffusion": null
+    "diffusion": 34633
   },
   {
     "nom": "L'Alsace",
@@ -2318,7 +2318,7 @@
     "mediaPeriodicite": "Quotidien",
     "mediaEchelle": "Régional",
     "commentaire": "",
-    "diffusion": null
+    "diffusion": 76272 
   },
   {
     "nom": "Le Bien public",
@@ -2329,7 +2329,7 @@
     "mediaPeriodicite": "Quotidien",
     "mediaEchelle": "Régional",
     "commentaire": "",
-    "diffusion": null
+    "diffusion": 38663 
   },
   {
     "nom": "Le Journal de Saône-et-Loire",
@@ -2340,7 +2340,7 @@
     "mediaPeriodicite": "Quotidien",
     "mediaEchelle": "Régional",
     "commentaire": "",
-    "diffusion": null
+    "diffusion": 49717 
   },
   {
     "nom": "Le Progrès",
@@ -2351,7 +2351,7 @@
     "mediaPeriodicite": "Quotidien",
     "mediaEchelle": "Régional",
     "commentaire": "",
-    "diffusion": null
+    "diffusion": 179179 
   },
   {
     "nom": "Le Dauphiné libéré",
@@ -2362,7 +2362,7 @@
     "mediaPeriodicite": "Quotidien",
     "mediaEchelle": "Régional",
     "commentaire": "",
-    "diffusion": null
+    "diffusion": 202763
   },
   {
     "nom": "Vaucluse Matin",
@@ -2384,7 +2384,7 @@
     "mediaPeriodicite": "Quotidien",
     "mediaEchelle": "Régional",
     "commentaire": "",
-    "diffusion": null
+    "diffusion": 21162
   },
   {
     "nom": "Fondation Varenne",
@@ -2428,7 +2428,7 @@
     "mediaPeriodicite": "Quotidien",
     "mediaEchelle": "Régional",
     "commentaire": "",
-    "diffusion": null
+    "diffusion": 165390
   },
   {
     "nom": "Le Populaire du centre",
@@ -2439,7 +2439,7 @@
     "mediaPeriodicite": "Quotidien",
     "mediaEchelle": "Régional",
     "commentaire": "",
-    "diffusion": null
+    "diffusion": 34273
   },
   {
     "nom": "Le Journal du centre",
@@ -2450,7 +2450,7 @@
     "mediaPeriodicite": "Quotidien",
     "mediaEchelle": "Régional",
     "commentaire": "",
-    "diffusion": null
+    "diffusion": 23943 
   },
   {
     "nom": "Le Berry républicain",
@@ -2461,7 +2461,7 @@
     "mediaPeriodicite": "Quotidien",
     "mediaEchelle": "Régional",
     "commentaire": "",
-    "diffusion": null
+    "diffusion": 29717 
   },
   {
     "nom": "L’Yonne Républicaine",
@@ -2472,7 +2472,7 @@
     "mediaPeriodicite": "Quotidien",
     "mediaEchelle": "Régional",
     "commentaire": "",
-    "diffusion": null
+    "diffusion": 27066 
   },
   {
     "nom": "L’Echo Républicain",
@@ -2483,7 +2483,7 @@
     "mediaPeriodicite": "Quotidien",
     "mediaEchelle": "Régional",
     "commentaire": "",
-    "diffusion": null
+    "diffusion": 26659
   },
   {
     "nom": "Courrier du Loiret",
@@ -2494,7 +2494,7 @@
     "mediaPeriodicite": "Hebdomadaire",
     "mediaEchelle": "Régional",
     "commentaire": "",
-    "diffusion": null
+    "diffusion": 5336 
   },
   {
     "nom": "L’Eclaireur du Gâtinais",
@@ -2505,7 +2505,7 @@
     "mediaPeriodicite": "Hebdomadaire",
     "mediaEchelle": "Régional",
     "commentaire": "",
-    "diffusion": null
+    "diffusion": 14922
   },
   {
     "nom": "Régional de Cosne",
@@ -2516,7 +2516,7 @@
     "mediaPeriodicite": "Hebdomadaire",
     "mediaEchelle": "Régional",
     "commentaire": "",
-    "diffusion": null
+    "diffusion": 5546
   },
   {
     "nom": "L’Echo Charitois",
@@ -2538,7 +2538,7 @@
     "mediaPeriodicite": "Hebdomadaire",
     "mediaEchelle": "Régional",
     "commentaire": "",
-    "diffusion": null
+    "diffusion": 18862 
   },
   {
     "nom": "La Liberté",
@@ -2549,7 +2549,7 @@
     "mediaPeriodicite": "Hebdomadaire",
     "mediaEchelle": "Régional",
     "commentaire": "",
-    "diffusion": null
+    "diffusion": 5953 
   },
   {
     "nom": "Journal de Gien",
@@ -2560,7 +2560,7 @@
     "mediaPeriodicite": "Hebdomadaire",
     "mediaEchelle": "Régional",
     "commentaire": "",
-    "diffusion": null
+    "diffusion": 13117 
   },
   {
     "nom": "La République du Centre",
@@ -2571,7 +2571,7 @@
     "mediaPeriodicite": "Quotidien",
     "mediaEchelle": "Régional",
     "commentaire": "",
-    "diffusion": null
+    "diffusion": 31390 
   },
   {
     "nom": "Groupe NRCO",
@@ -2604,7 +2604,7 @@
     "mediaPeriodicite": "Quotidien",
     "mediaEchelle": "Régional",
     "commentaire": "",
-    "diffusion": null
+    "diffusion": 11278 
   },
   {
     "nom": "TV Tours",
@@ -2648,7 +2648,7 @@
     "mediaPeriodicite": "Quotidien",
     "mediaEchelle": "Régional",
     "commentaire": "",
-    "diffusion": null
+    "diffusion": 140097 
   },
   {
     "nom": "Le Petit Bleu",
@@ -2670,7 +2670,7 @@
     "mediaPeriodicite": "Quotidien",
     "mediaEchelle": "Régional",
     "commentaire": "",
-    "diffusion": null
+    "diffusion": 9865 
   },
   {
     "nom": "Le Villefranchois",
@@ -2681,7 +2681,7 @@
     "mediaPeriodicite": "Hebdomadaire",
     "mediaEchelle": "Régional",
     "commentaire": "",
-    "diffusion": null
+    "diffusion": 6874 
   },
   {
     "nom": "La Gazette du Comminges",
@@ -2714,7 +2714,7 @@
     "mediaPeriodicite": "Quotidien",
     "mediaEchelle": "Régional",
     "commentaire": "",
-    "diffusion": null
+    "diffusion": 103704 
   },
   {
     "nom": "L'Indépendant",
@@ -2725,7 +2725,7 @@
     "mediaPeriodicite": "Quotidien",
     "mediaEchelle": "Régional",
     "commentaire": "",
-    "diffusion": null
+    "diffusion": 45669 
   },
   {
     "nom": "Centre Presse Aveyron",
@@ -2736,7 +2736,7 @@
     "mediaPeriodicite": "Quotidien",
     "mediaEchelle": "Régional",
     "commentaire": "",
-    "diffusion": null
+    "diffusion": 16622 
   },
   {
     "nom": "Famille Lemoine",
@@ -2769,7 +2769,7 @@
     "mediaPeriodicite": "Quotidien",
     "mediaEchelle": "Régional",
     "commentaire": "",
-    "diffusion": null
+    "diffusion": 240318 
   },
   {
     "nom": "Charente Libre",
@@ -2780,7 +2780,7 @@
     "mediaPeriodicite": "Quotidien",
     "mediaEchelle": "Régional",
     "commentaire": "",
-    "diffusion": null
+    "diffusion": 30642 
   },
   {
     "nom": "Dordogne Libre",
@@ -2791,7 +2791,7 @@
     "mediaPeriodicite": "Quotidien",
     "mediaEchelle": "Régional",
     "commentaire": "",
-    "diffusion": null
+    "diffusion": 5286 
   },
   {
     "nom": "Haute Saintonge",
@@ -2813,7 +2813,7 @@
     "mediaPeriodicite": "Hebdomadaire",
     "mediaEchelle": "Régional",
     "commentaire": "",
-    "diffusion": null
+    "diffusion": 4765 
   },
   {
     "nom": "Le Résistant",
@@ -2824,7 +2824,7 @@
     "mediaPeriodicite": "Hebdomadaire",
     "mediaEchelle": "Régional",
     "commentaire": "",
-    "diffusion": null
+    "diffusion": 7010
   },
   {
     "nom": "L'Hebdo de Charente-Maritime",
@@ -2835,7 +2835,7 @@
     "mediaPeriodicite": "Hebdomadaire",
     "mediaEchelle": "Régional",
     "commentaire": "",
-    "diffusion": null
+    "diffusion": 2932 
   },
   {
     "nom": "La Dépêche du Bassin",
@@ -2846,7 +2846,7 @@
     "mediaPeriodicite": "Hebdomadaire",
     "mediaEchelle": "Régional",
     "commentaire": "",
-    "diffusion": null
+    "diffusion": 4237 
   },
   {
     "nom": "Le Journal du Médoc",
@@ -2857,7 +2857,7 @@
     "mediaPeriodicite": "Hebdomadaire",
     "mediaEchelle": "Régional",
     "commentaire": "",
-    "diffusion": null
+    "diffusion": 3217 
   },
   {
     "nom": "Pyrénées Presse",
@@ -2879,7 +2879,7 @@
     "mediaPeriodicite": "Quotidien",
     "mediaEchelle": "Régional",
     "commentaire": "",
-    "diffusion": null
+    "diffusion": 27976 
   },
   {
     "nom": "L'Eclair",
@@ -2923,7 +2923,7 @@
     "mediaPeriodicite": "Quotidien",
     "mediaEchelle": "Régional",
     "commentaire": "",
-    "diffusion": null
+    "diffusion": 196998 
   },
   {
     "nom": "Le Poher",
@@ -3044,7 +3044,7 @@
     "mediaPeriodicite": "Quotidien",
     "mediaEchelle": "Régional",
     "commentaire": "",
-    "diffusion": null
+    "diffusion": 74797 
   },
   {
     "nom": "Corse Matin",
@@ -3055,7 +3055,7 @@
     "mediaPeriodicite": "Quotidien",
     "mediaEchelle": "Régional",
     "commentaire": "",
-    "diffusion": null
+    "diffusion": 32792
   },
   {
     "nom": "La Provence",
@@ -3066,7 +3066,7 @@
     "mediaPeriodicite": "Quotidien",
     "mediaEchelle": "Régional",
     "commentaire": "",
-    "diffusion": null
+    "diffusion": 101002 
   },
   {
     "nom": "Xavier Ellie",
@@ -3099,7 +3099,7 @@
     "mediaPeriodicite": "Quotidien",
     "mediaEchelle": "Régional",
     "commentaire": "",
-    "diffusion": null
+    "diffusion": 51921 
   },
   {
     "nom": "Havre Libre",
@@ -3132,7 +3132,7 @@
     "mediaPeriodicite": "Hebdomadaire",
     "mediaEchelle": "Régional",
     "commentaire": "",
-    "diffusion": null
+    "diffusion": 12176
   },
   {
     "nom": "Havre Dimanche",
@@ -3143,7 +3143,7 @@
     "mediaPeriodicite": "Hebdomadaire",
     "mediaEchelle": "Régional",
     "commentaire": "",
-    "diffusion": null
+    "diffusion": 8855 
   },
   {
     "nom": "Normandie Dimanche",
@@ -3154,7 +3154,7 @@
     "mediaPeriodicite": "Hebdomadaire",
     "mediaEchelle": "Régional",
     "commentaire": "",
-    "diffusion": null
+    "diffusion": 8855
   },
   {
     "nom": "Philippe Hersant",
@@ -3463,8 +3463,5 @@
     "mediaEchelle": "",
     "commentaire": "",
     "diffusion": null
-  },
-  {
-    "nom": ""
   }
 ]
