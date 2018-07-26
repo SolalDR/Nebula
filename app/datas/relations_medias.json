@@ -249,7 +249,7 @@
   },
   {
     "origine": "Les Nouvelles Éditions",
-    "valeur": "<50",
+    "valeur": "50",
     "cible": "Vice.com",
     "source": "lemonde.fr",
     "datePublication": "11/03/2016",
@@ -673,7 +673,7 @@
   },
   {
     "origine": "Privinvest",
-    "valeur": ">50",
+    "valeur": "50",
     "cible": "Groupe Valmonde",
     "source": "",
     "datePublication": "",
@@ -753,7 +753,7 @@
   },
   {
     "origine": "Famille Mohn",
-    "valeur": "contrôle",
+    "valeur": "100",
     "cible": "Bertelsmann",
     "source": "",
     "datePublication": "",
@@ -1073,7 +1073,7 @@
   },
   {
     "origine": "France Télévision",
-    "valeur": "contrôle",
+    "valeur": "100",
     "cible": "France info",
     "source": "",
     "datePublication": "",
@@ -1137,7 +1137,7 @@
   },
   {
     "origine": "Radio France",
-    "valeur": "contrôle",
+    "valeur": "100",
     "cible": "France info",
     "source": "",
     "datePublication": "",
@@ -1153,7 +1153,7 @@
   },
   {
     "origine": "République fédérale d'Allemagne",
-    "valeur": "contrôle",
+    "valeur": "100",
     "cible": "ARD / ZDF",
     "source": "",
     "datePublication": "",
@@ -1265,7 +1265,7 @@
   },
   {
     "origine": "Famille Hutin",
-    "valeur": "contrôle",
+    "valeur": "100",
     "cible": "Association pour le soutien des principes de la démocratie humaniste",
     "source": "",
     "datePublication": "",
@@ -1345,7 +1345,7 @@
   },
   {
     "origine": "Famille Hurbain",
-    "valeur": "contrôle",
+    "valeur": "100",
     "cible": "Groupe Rossel",
     "source": "",
     "datePublication": "",
@@ -1649,7 +1649,7 @@
   },
   {
     "origine": "Fondation Varenne",
-    "valeur": ">50",
+    "valeur": "50",
     "cible": "Groupe La Montagne",
     "source": "",
     "datePublication": "",
@@ -2001,7 +2001,7 @@
   },
   {
     "origine": "Édouard Coudurier",
-    "valeur": "contrôle",
+    "valeur": "100",
     "cible": "Groupe Télégramme",
     "source": "",
     "datePublication": "",
@@ -2185,7 +2185,7 @@
   },
   {
     "origine": "Éditions Suisses Holding",
-    "valeur": ">50",
+    "valeur": "50",
     "cible": "Groupe Filanosa",
     "source": "",
     "datePublication": "",
@@ -2193,7 +2193,7 @@
   },
   {
     "origine": "Éditions Suisses Holding",
-    "valeur": ">50",
+    "valeur": "50",
     "cible": "Rhône Média",
     "source": "",
     "datePublication": "",
@@ -2265,7 +2265,7 @@
   },
   {
     "origine": "Abdoul Cadjee",
-    "valeur": ">50",
+    "valeur": "50",
     "cible": "Le Journal de l'Île de la Réunion",
     "source": "ipreunion.com",
     "datePublication": "28/01/2016",
@@ -2273,7 +2273,7 @@
   },
   {
     "origine": "Benjamin et Ariane de Rothschild",
-    "valeur": "contrôle",
+    "valeur": "100",
     "cible": "Lampsane Investissement SA",
     "source": "",
     "datePublication": "",
@@ -2281,7 +2281,7 @@
   },
   {
     "origine": "Lampsane Investissement SA",
-    "valeur": ">50",
+    "valeur": "50",
     "cible": "Slate.fr",
     "source": "bilan.ch",
     "datePublication": "18/08/2017",
@@ -2289,7 +2289,7 @@
   },
   {
     "origine": "Jean-Sébastien Ferjou",
-    "valeur": ">50",
+    "valeur": "50",
     "cible": "Atlantico.fr",
     "source": "cbnews.fr",
     "datePublication": "18/09/2012",
@@ -2297,7 +2297,7 @@
   },
   {
     "origine": "Pierre Guyot",
-    "valeur": ">50",
+    "valeur": "50",
     "cible": "Atlantico.fr",
     "source": "cbnews.fr",
     "datePublication": "18/09/2012",
@@ -2305,7 +2305,7 @@
   },
   {
     "origine": "Gérard Lignac",
-    "valeur": ">50",
+    "valeur": "50",
     "cible": "Atlantico.fr",
     "source": "cbnews.fr",
     "datePublication": "18/09/2012",
@@ -2313,7 +2313,7 @@
   },
   {
     "origine": "Franck Julien",
-    "valeur": "contrôle",
+    "valeur": "100",
     "cible": "Edi Invest",
     "source": "",
     "datePublication": "",
@@ -2345,13 +2345,10 @@
   },
   {
     "origine": "Hima Groupe",
-    "valeur": "contrôle",
+    "valeur": "100",
     "cible": "La Tribune",
     "source": "lefigaro.fr",
     "datePublication": "15/12/2016",
     "dateConsultation": "04/03/2017"
-  },
-  {
-    "origine": ""
   }
 ]

@@ -50,8 +50,6 @@ class NebulaPath {
       from = this.nodes[Math.floor(advancementGlobal)]
       to = this.nodes[Math.ceil(advancementGlobal)]
 
-      console.log(advancementGlobal);
-
       position = new THREE.Vector3()
         .copy(from.position)
         .add(

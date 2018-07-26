@@ -1,9 +1,10 @@
 
-import OrbitControls from "./helpers/OrbitControls.js"
-import Dat from "dat-gui"
-import { Stats } from "three-stats"
-import Clock from "./helpers/Clock.js"
-import Nebula from "./components/Nebula"
+import OrbitControls from "./helpers/OrbitControls.js";
+import Dat from "dat-gui";
+import { Stats } from "three-stats";
+import Clock from "./helpers/Clock.js";
+import Nebula from "./components/Nebula";
+import MediaMap from "./components/MediaMap.js";
 import config from "./config.js";
 
 export default class App {
@@ -27,7 +28,7 @@ export default class App {
         this.container.appendChild( this.renderer.domElement );
 
         // Camera and control
-        this.camera = new THREE.PerspectiveCamera( 70, window.innerWidth / window.innerHeight, 0.1, 10000 );
+        this.camera = new THREE.PerspectiveCamera( 70, window.innerWidth / window.innerHeight, 0.00001, 10000 );
         this.camera.position.set(
             config.camera.position.x, 
             config.camera.position.y, 
@@ -38,9 +39,6 @@ export default class App {
         this.controls.maxZoom = 50; 
         this.controls.minZoom = 50; 
         this.mouse = new THREE.Vector2();
-
-        
-
 
         // Init Clock
         this.clock = new Clock();
@@ -55,42 +53,48 @@ export default class App {
         this.group.position.y = -1000;
         this.group.position.z = -1000;
 
+        this.mediaMap = new MediaMap();
+        this.mediaMap.computePositions();
+
+        var nodes = this.mediaMap.nodesFormated;
+
+        console.log(nodes);
+        var sampleNodes = [
+            {
+                count: 10000,
+                position: new THREE.Vector3(200, 200, 200)
+            },
+            {
+                count: 10000,
+                position: new THREE.Vector3(1800, 1800, 1800)
+            },
+            {
+                count: 10000,
+                position: new THREE.Vector3(1800, 200, 200)
+            },
+            {
+                count: 10000,
+                position: new THREE.Vector3(1500, 1800, 200)
+            }
+        ]
+        var sampleRelations = [
+            [0, 1],
+            [1, 2],
+            [3, 1],
+            [3, 0]
+        ]
 
         this.nebula = new Nebula({
             debug: false,
-            nodes: [
-                {
-                    count: 10000,
-                    position: new THREE.Vector3(200, 200, 200)
-                },
-                {
-                    count: 10000,
-                    position: new THREE.Vector3(1800, 1800, 1800)
-                },
-                {
-                    count: 10000,
-                    position: new THREE.Vector3(1800, 200, 200)
-                },
-                {
-                    count: 10000,
-                    position: new THREE.Vector3(1500, 1800, 200)
-                }
-            ],
-            relations: [
-                [0, 1],
-                [1, 2],
-                [3, 1],
-                [3, 0]
-            ], 
+            nodes: nodes.nodes,
+            relations: nodes.relations, 
             scene: this.group,
             gui: this.gui
         });
 
 
-
         this.scene.add( this.group );
         this.group.add( this.nebula.mesh );
-        // this.group.add( this.nebula.debugPlane );
 
         this.onWindowResize();
         this.renderer.animate( this.render.bind(this) );

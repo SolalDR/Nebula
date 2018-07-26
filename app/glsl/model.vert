@@ -26,7 +26,7 @@ void main() {
 
   vec3 newPosition = from + (to - from)*min(modX/EACH, 1.);
 
-  vec3 noise = texture2D(u_noise, newPosition.xy*0.9 + offset*0.1).xyz;
+  vec3 noise = texture2D(u_noise, newPosition.xy*0.5 + (offset)*0.01 + (sin(u_time*2.)+1.)/4.).xyz;
 
 
   newPosition *= 2000.; 
