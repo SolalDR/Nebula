@@ -32,7 +32,8 @@
     "webpack-glsl-loader": "^1.0.1",
     "json-loader": "^0.5.4",
     "noisejs": "latest",
-    "tsv-loader": "1.0.5"
+    "tsv-loader": "1.0.5",
+    "copy-webpack-plugin": "latest"
   },
   "dependencies": {
     "dat-gui": "latest",

@@ -4,6 +4,7 @@ const CleanWebpackPlugin = require('clean-webpack-plugin');
 const ExtractTextPlugin = require('extract-text-webpack-plugin');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const UglifyJSPlugin = require('uglifyjs-webpack-plugin');
+const CopyWebpackPlugin = require('copy-webpack-plugin');
 
 module.exports = function(env) {
     let plugins = [
@@ -32,6 +33,9 @@ module.exports = function(env) {
             template: 'index.html',
             chunksSortMode: 'dependency'
         }),
+        new CopyWebpackPlugin([
+            { from: './../static', to: "static" }
+        ])
     ];
     if (env == 'dev') {
 
@@ -73,7 +77,7 @@ module.exports = function(env) {
                     use: ExtractTextPlugin.extract({ use: 'css-loader' })
                 },
                 {
-                    test: [/\.mp3$/, /\.dae$/, /\.jpg$/, /\.obj$/, /\.fbx$/],
+                    test: [/\.mp3$/, /\.dae$/, /\.jpg$/, /\.obj$/, /\.fbx$/, /\.png$/],
                     use: ['file-loader?name=[path][name].[hash].[ext]']
                 },  
                 {

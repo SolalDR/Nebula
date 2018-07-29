@@ -3,6 +3,15 @@ export default {
     size: 2000,
     timeFactor: 0.00001 
   },
+  skybox: {
+    files: [
+      "box-1.jpg",
+      "box-2.png",
+      "box-3.png",
+      "box-5.jpg",
+      "box-6.png"
+    ]
+  },
   camera: {
     position: {
       x: 1000, 
@@ -12,10 +21,14 @@ export default {
   },
   nebula: {
     textureSize: 1024,
-    particlesCount: 100000,
+    particlesCount: 20000,
     baseRadius: 0,
     node: {
       radiusFactor: 0.2 
+    },
+    particle: {
+      size: 5000.0,
+      color: {r: 255, g: 255, b: 150}
     },
     path: {
       radius: 10,

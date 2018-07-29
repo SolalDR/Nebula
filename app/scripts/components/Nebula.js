@@ -38,14 +38,20 @@ class Nebula {
   initDatGui(){
     var nebulaFolder = this.gui.addFolder('Nebula');
     var pathF = nebulaFolder.addFolder("Paths");
-    var nodeFolder = nebulaFolder.addFolder("Nodes");
+
+    nebulaFolder.add(this.config.nebula.particle, "size");
+    nebulaFolder.addColor(this.config.nebula.particle, "color").onChange((color)=>{
+      console.log(this.material.uniforms.u_particle_color.value)
+      this.material.uniforms.u_particle_color.value = [color.r/255, color.g/255, color.b/255];
+      this.material.uniforms.needsUpdate = true; 
+    });
 
     var pathsC = [];
     pathsC.push(pathF.add(this.config.nebula.path, 'radius', 0, 300));
-    pathsC.push(pathF.add(this.config.nebula.path, 'depth', 0, 10));
-    pathsC.push(pathF.add(this.config.nebula.path, 'count', 0, 20));
-    pathsC.push(pathF.add(this.config.nebula.path, 'curvePrecision', 0, 100));
-    pathsC.push(pathF.add(this.config.nebula.path, 'curveTension', 0, 1));
+    // pathsC.push(pathF.add(this.config.nebula.path, 'depth', 0, 10));
+    // pathsC.push(pathF.add(this.config.nebula.path, 'count', 0, 20));
+    // pathsC.push(pathF.add(this.config.nebula.path, 'curvePrecision', 0, 100));
+    // pathsC.push(pathF.add(this.config.nebula.path, 'curveTension', 0, 1));
     pathsC.forEach(controller => controller.onFinishChange(()=>{
       this.reset();
     }))
@@ -193,14 +199,23 @@ class Nebula {
   }
 
   computeMaterial(){
-    var noise = new THREE.TextureLoader().load( '/app/assets/images/noise_3d.png' );
+    var noise = new THREE.TextureLoader().load( '/static/images/noise_3d.png' );
+    var flare = new THREE.TextureLoader().load( '/static/images/flare.png' );
+    
     this.material = new THREE.ShaderMaterial({
       vertexShader: vertex, 
       fragmentShader: fragment,
+      transparent: true,
+      depthTest: true, 
+      depthWrite: false,
       uniforms: {
         u_paths: {value: this.texture},
-        u_time: { type: "f", value: 0 },
+        u_particle_size: {type: "f", value: config.nebula.particle.size},
+        u_particle_color: {type: "3f", value: [ config.nebula.particle.color.r/255, config.nebula.particle.color.g/255, config.nebula.particle.color.b/255 ]},
+        u_paths: {value: this.texture},
+        u_flare: {value: flare},
         u_noise: {value: noise},
+        u_time: { type: "f", value: 0 },
         u_noise_radius: {type: "f", value: this.config.nebula.path.noiseRadius},
         u_noise_speed: {type: "f", value: this.config.nebula.path.noiseSpeed}
       }

@@ -52,26 +52,8 @@ class MediaEntity {
       );
       this.position = position.add(new THREE.Vector3(1000, 1000, 1000));
     } else {
-      var parentsNormal = [];
-      this.parents.forEach(parent => {
-        if( parent.parent.position ){
-          parentsNormal.push(new THREE.Vector3()
-            .copy(parent.parent.position)
-            .sub(new THREE.Vector3(1000, 1000,))
-            .normalize());
-        }
-      })
-      var normal = new THREE.Vector3();
-      parentsNormal.forEach(parentNormal =>{
-        normal.add(parentNormal);
-      })
-      normal.normalize();
       
-      if( normal.equals(new THREE.Vector3())){
-        console.log(this.name, this);  
-      }
-      this.position = new THREE.Vector3().copy(this.parents[0].parent.position);
-      this.position.add(normal.multiplyScalar(150));
+      
       this.position = new THREE.Vector3(Math.random()*2000, Math.random()*2000, Math.random()*2000)
     }
   }

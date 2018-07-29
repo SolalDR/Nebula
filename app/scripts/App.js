@@ -46,43 +46,13 @@ export default class App {
         this.stats.showPanel( 1 ); // 0: fps, 1: ms, 2: mb, 3+: custom
         document.body.appendChild( this.stats.dom );
 
-    	this.scene = new THREE.Scene();
-       
+    	this.scene = new THREE.Scene();       
         this.group = new THREE.Group();
-        this.group.position.x = -1000;
-        this.group.position.y = -1000;
-        this.group.position.z = -1000;
 
         this.mediaMap = new MediaMap();
         this.mediaMap.computePositions();
 
         var nodes = this.mediaMap.nodesFormated;
-
-        console.log(nodes);
-        var sampleNodes = [
-            {
-                count: 10000,
-                position: new THREE.Vector3(200, 200, 200)
-            },
-            {
-                count: 10000,
-                position: new THREE.Vector3(1800, 1800, 1800)
-            },
-            {
-                count: 10000,
-                position: new THREE.Vector3(1800, 200, 200)
-            },
-            {
-                count: 10000,
-                position: new THREE.Vector3(1500, 1800, 200)
-            }
-        ]
-        var sampleRelations = [
-            [0, 1],
-            [1, 2],
-            [3, 1],
-            [3, 0]
-        ]
 
         this.nebula = new Nebula({
             debug: false,
@@ -92,7 +62,6 @@ export default class App {
             gui: this.gui
         });
 
-
         this.scene.add( this.group );
         this.group.add( this.nebula.mesh );
 
@@ -100,6 +69,7 @@ export default class App {
         this.renderer.animate( this.render.bind(this) );
 
         this.gui.add(this.config.world, "timeFactor", 0, 0.0001);
+        this.generateSkyBox();
     }
 
     // -----------------------------------------
@@ -112,6 +82,17 @@ export default class App {
     	this.renderer.render( this.scene, this.camera );
 
         this.stats.end();
+    }
+
+    generateSkyBox(){
+        var sky = new THREE.TextureLoader().load( '/static/images/skybox/box-1.jpg' );
+        var geo = new THREE.SphereGeometry( 4000, 32, 32 );
+        var mat = new THREE.MeshBasicMaterial({
+            map: sky,
+            side: THREE.BackSide
+        });
+        var mesh = new THREE.Mesh(geo, mat);
+        this.scene.add(mesh);
     }
 
 
