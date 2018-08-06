@@ -6,6 +6,8 @@ class MediaEntity {
   static get TYPE_MEDIA() { return 3; }
 
   constructor(object){
+    this.element; // HTML ELEMENT 
+    this.node;    // NebulaNode
     this.name = object.nom;
     this.type = parseInt(object.typeCode);
     this.rank = parseInt(object.rangChallenges);
@@ -31,6 +33,13 @@ class MediaEntity {
     return c;
   }
 
+  get mediasLinked() {
+    var result = [];
+    this.childs.forEach(child => result.push(child.child))
+    this.parents.forEach(parent => result.push(parent.parent))
+    return result;
+  }
+
   sphericalCoord(position, center){
     if( !center ) var center = new THREE.Vector3();
     var sub = new THREE.Vector3().copy(position).sub(center);
@@ -39,6 +48,21 @@ class MediaEntity {
       theta: Math.arcos(sub.z/radius),
       phi: Math.arcsin(sub.y/(radius*Math.sin(Math.arcos(sub.z/radius))))
     }
+  }
+
+  getParentsCenter() {
+    var sum = new THREE.Vector3();
+    var sumIteration = 0;
+    this.parents.forEach(parent => {
+      if( parent.parent.position ){
+        sum.add(parent.parent.position);  
+        sumIteration++;
+      }
+    })
+
+   
+    sum.multiplyScalar(1/sumIteration);
+    return sum;
   }
 
   computePosition(){
@@ -53,7 +77,16 @@ class MediaEntity {
       this.position = position.add(new THREE.Vector3(1000, 1000, 1000));
     } else {
       
-      
+      if( !this.position ){
+        this.position = new THREE.Vector3(Math.random()*500, Math.random()*500, Math.random()*500)
+        var center = this.getParentsCenter();
+        this.position = center.clone()
+          .sub(new THREE.Vector3(1000, 1000, 1000))
+          .normalize()
+          .multiplyScalar(300)
+
+        this.position.add(center).add(this.position)
+      }
       this.position = new THREE.Vector3(Math.random()*2000, Math.random()*2000, Math.random()*2000)
     }
   }

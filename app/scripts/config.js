@@ -21,8 +21,8 @@ export default {
   },
   nebula: {
     textureSize: 1024,
-    particlesCount: 20000,
-    baseRadius: 0,
+    particlesCount: 50000,
+    baseRadius: 300,
     node: {
       radiusFactor: 0.2 
     },

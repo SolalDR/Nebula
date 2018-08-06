@@ -18,15 +18,25 @@ import config from "./../config.js";
 
 class NebulaNode {
   constructor(id, args){
+    this.media = args.media;
+    this.media.node = this;
     this.id = id;
     this.count = args.count; 
-    this.position = args.position;
+    this.position = this.media.position;
     this._network = null;
     this.radius = this.count*0.2;
     this.nodes = [];
     this.depthPath = config.nebula.path.depth;
     this.countPath = config.nebula.path.count;
     this.paths = [];
+    this.generateNode();
+  }
+
+  generateNode(){
+    this.element = document.createElement("p");
+    this.element.className = "nebula__label nebula__label--hidden";
+    this.element.innerHTML = this.media.name;
+    this.media.element = this.element;
   }
 
   map(callback){

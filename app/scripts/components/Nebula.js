@@ -9,12 +9,15 @@ class Nebula {
   constructor(args) {
     this.nodes = [];
     this.networks = [];
+    this.selectedMedias = [];
     this.debug = !args.debug ? false : true;
     this.scene = args.scene;
     this.config = config;
     this.gui = args.gui;
     this.storedNodes = args.nodes;
     this.storedRelation = args.relations;
+    this.element = document.querySelector(".nebula");
+    this.camera = args.camera;
     this.initDatGui();
     this.init();
     
@@ -32,6 +35,7 @@ class Nebula {
     this.computeTexture();
     this.computeGeometry();
     this.computeMaterial();
+    this.updateLabels();
     this.mesh = new THREE.Points(this.geometry, this.material);
   }
 
@@ -39,7 +43,7 @@ class Nebula {
     var nebulaFolder = this.gui.addFolder('Nebula');
     var pathF = nebulaFolder.addFolder("Paths");
 
-    nebulaFolder.add(this.config.nebula.particle, "size");
+    
     nebulaFolder.addColor(this.config.nebula.particle, "color").onChange((color)=>{
       console.log(this.material.uniforms.u_particle_color.value)
       this.material.uniforms.u_particle_color.value = [color.r/255, color.g/255, color.b/255];
@@ -59,10 +63,12 @@ class Nebula {
     var uniformC = [];
     uniformC.push(pathF.add(this.config.nebula.path, 'noiseSpeed', 0, 1));  
     uniformC.push(pathF.add(this.config.nebula.path, 'noiseRadius', 0, 600));
-    
+    uniformC.push(nebulaFolder.add(this.config.nebula.particle, "size"));
+
     uniformC.forEach(uniform => uniform.onChange(()=>{
       this.material.uniforms.u_noise_speed.value = this.config.nebula.path.noiseSpeed;
       this.material.uniforms.u_noise_radius.value = this.config.nebula.path.noiseRadius;
+      this.material.uniforms.u_particle_size.value = this.config.nebula.particle.size;
       this.material.uniforms.needsUpdate = true;
     }))
 
@@ -78,6 +84,7 @@ class Nebula {
   computeNodes(nodes) {
     for(var i=0; i<nodes.length; i++){
       this.nodes.push(new NebulaNode(i, nodes[i]));
+      this.element.appendChild(this.nodes[i].element);
     }
   }
 
@@ -166,6 +173,7 @@ class Nebula {
     if( this.debug ){
       this.paths.forEach(path => {
         this.scene.add(path.helper);
+        // path.position = new THREE.Vector3(-1000, -1000, -1000)
       })
     }
   }
@@ -220,6 +228,40 @@ class Nebula {
         u_noise_speed: {type: "f", value: this.config.nebula.path.noiseSpeed}
       }
     })
+  }
+
+  selectMedia(media = null){
+    for(var i=0; i<this.selectedMedias.length; i++){
+      this.selectedMedias
+    }
+    this.selectedMedia = media;
+    this.selectedMedias = this.selectedMedias.concat(media.mediasLinked);
+  }
+
+  updateLabels(){
+    var width = window.innerWidth, height = window.innerHeight;
+    var widthHalf = width / 2, heightHalf = height / 2;
+
+
+    for(var i=0; i<this.selectedMedias.length; i++){
+      var pos = this.selectedMedias[i].position.clone().sub(new THREE.Vector3(1000, 1000, 1000));
+      var dist = pos.distanceTo(this.camera.position);
+      pos.project(this.camera);
+      pos.x = ( pos.x * widthHalf ) + widthHalf;
+      pos.y = - ( pos.y * heightHalf ) + heightHalf;
+      this.selectedMedias[i].node.element.classList.remove("nebula__label--hidden");
+      this.selectedMedias[i].node.element.style = `left: ${pos.x}px; top: ${pos.y}px; transform: scale(${(1 - dist/3000)}) translateX(-50%) translateY(-50%);`
+    }
+
+    // for(var i=0; i<this.nodes.length; i++){
+    //   var pos = this.nodes[i].media.position.clone().sub(new THREE.Vector3(1000, 1000, 1000));
+    //   var dist = pos.distanceTo(this.camera.position);
+    //   pos.project(this.camera);
+    //   pos.x = ( pos.x * widthHalf ) + widthHalf;
+    //   pos.y = - ( pos.y * heightHalf ) + heightHalf;
+    //   this.nodes[i].element.classList.remove("nebula__label--hidden");
+    //   this.nodes[i].element.style = `left: ${pos.x}px; top: ${pos.y}px; transform: scale(${(1 - dist/3000)}) translateX(-50%) translateY(-50%);`
+    // }
   }
 
   render(time) {

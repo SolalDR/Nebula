@@ -68,7 +68,8 @@ class MediaMap {
         nodes.push({
           name: this.medias[i].name,
           count: this.medias[i].diffusion/rat,
-          position: this.medias[i].position
+          position: this.medias[i].position,
+          media: this.medias[i]
         })
       }
     }

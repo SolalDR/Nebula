@@ -81,7 +81,7 @@ module.exports = function(env) {
                     use: ['file-loader?name=[path][name].[hash].[ext]']
                 },  
                 {
-                    test: /\.scss$/,
+                    test: [/\.scss$/, /\.sass$/],
                     use: [  { loader: "style-loader"}, // creates style nodes from JS strings
                             { loader: "css-loader"},   // translates CSS into CommonJS
                             { loader: "sass-loader"}]  // compiles Sass to CSS

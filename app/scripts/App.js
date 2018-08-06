@@ -6,6 +6,7 @@ import Clock from "./helpers/Clock.js";
 import Nebula from "./components/Nebula";
 import MediaMap from "./components/MediaMap.js";
 import config from "./config.js";
+import Search from "./components/Search.js"
 
 export default class App {
 
@@ -28,7 +29,7 @@ export default class App {
         this.container.appendChild( this.renderer.domElement );
 
         // Camera and control
-        this.camera = new THREE.PerspectiveCamera( 70, window.innerWidth / window.innerHeight, 0.00001, 10000 );
+        this.camera = new THREE.PerspectiveCamera( 70, window.innerWidth / window.innerHeight, 0.00001, 100000000000000 );
         this.camera.position.set(
             config.camera.position.x, 
             config.camera.position.y, 
@@ -38,6 +39,7 @@ export default class App {
         this.controls = new OrbitControls( this.camera );
         this.controls.maxZoom = 50; 
         this.controls.minZoom = 50; 
+        // this.controls.enabled = false;
         this.mouse = new THREE.Vector2();
 
         // Init Clock
@@ -59,7 +61,8 @@ export default class App {
             nodes: nodes.nodes,
             relations: nodes.relations, 
             scene: this.group,
-            gui: this.gui
+            gui: this.gui,
+            camera: this.camera
         });
 
         this.scene.add( this.group );
@@ -70,6 +73,12 @@ export default class App {
 
         this.gui.add(this.config.world, "timeFactor", 0, 0.0001);
         this.generateSkyBox();
+
+        Search.init(this.mediaMap, {
+            onSelect: (selected) => {
+                this.nebula.selectMedia(selected);
+            }
+        });
     }
 
     // -----------------------------------------
@@ -79,8 +88,9 @@ export default class App {
 
         this.clock.update();
         this.nebula.render(this.clock.elapsed);
-    	this.renderer.render( this.scene, this.camera );
+    	this.renderer.render(this.scene, this.camera);
 
+        this.nebula.updateLabels();
         this.stats.end();
     }
 
